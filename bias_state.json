@@ -784,5 +784,11 @@
     "since": 1788904043.4554207,
     "trigger": 71.4,
     "notified": false
+  },
+  "PI-USDT": {
+    "bias": "LONG",
+    "since": 1788911187.002438,
+    "trigger": 79.0,
+    "notified": false
   }
 }
