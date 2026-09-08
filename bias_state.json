@@ -603,7 +603,7 @@
     "bias": "LONG",
     "since": 1788900543.4582584,
     "trigger": 70.6,
-    "notified": false
+    "notified": true
   },
   "OL-USDT-SWAP": {
     "bias": "LONG",
