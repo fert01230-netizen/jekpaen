@@ -156,9 +156,9 @@
     "notified": false
   },
   "XAUT-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788900521.4504375,
+    "trigger": 29.8,
     "notified": false
   },
   "INJ-USDT": {
@@ -600,9 +600,9 @@
     "notified": false
   },
   "SENT-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788900543.4582584,
+    "trigger": 70.6,
     "notified": false
   },
   "OL-USDT-SWAP": {
