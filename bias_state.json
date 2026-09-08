@@ -609,7 +609,7 @@
     "bias": "LONG",
     "since": 1788888856.663951,
     "trigger": 71.3,
-    "notified": false
+    "notified": true
   },
   "KAT-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -759,7 +759,7 @@
     "bias": "LONG",
     "since": 1788881138.3241427,
     "trigger": 74.7,
-    "notified": false
+    "notified": true
   },
   "XSPCX-USDT": {
     "bias": "LONG",
@@ -768,6 +768,12 @@
     "notified": true
   },
   "CRO-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "SHIB-USDT": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
