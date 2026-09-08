@@ -754,5 +754,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "ETC-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
