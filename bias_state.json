@@ -778,5 +778,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "XTSLA-USDT": {
+    "bias": "LONG",
+    "since": 1788904043.4554207,
+    "trigger": 71.4,
+    "notified": false
   }
 }
