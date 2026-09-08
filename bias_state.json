@@ -282,9 +282,9 @@
     "notified": false
   },
   "XCRCL-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788876140.032366,
+    "trigger": 29.5,
     "notified": false
   },
   "XMSTR-USDT": {
