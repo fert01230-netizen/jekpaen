@@ -684,9 +684,9 @@
     "notified": false
   },
   "ZIL-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788896030.4238906,
+    "trigger": 73.6,
     "notified": false
   },
   "MEGA-USDT-SWAP": {
