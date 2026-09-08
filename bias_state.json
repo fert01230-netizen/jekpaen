@@ -42,9 +42,9 @@
     "notified": false
   },
   "XRP-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788883304.9124925,
+    "trigger": 72.5,
     "notified": false
   },
   "CP-USDT": {
@@ -174,9 +174,9 @@
     "notified": false
   },
   "ADA-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788883309.8676798,
+    "trigger": 71.6,
     "notified": false
   },
   "XPL-USDT": {
@@ -576,15 +576,15 @@
     "notified": false
   },
   "ADA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788883325.9035695,
+    "trigger": 71.8,
     "notified": false
   },
   "XRP-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788883326.6049678,
+    "trigger": 73.8,
     "notified": false
   },
   "CHIP-USDT-SWAP": {
@@ -759,6 +759,12 @@
     "bias": "LONG",
     "since": 1788881138.3241427,
     "trigger": 74.7,
+    "notified": false
+  },
+  "XSPCX-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
     "notified": false
   }
 }
