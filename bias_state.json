@@ -762,9 +762,9 @@
     "notified": false
   },
   "XSPCX-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788886224.9495094,
+    "trigger": 70.4,
     "notified": false
   }
 }
