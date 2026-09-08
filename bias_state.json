@@ -742,5 +742,17 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "XMRVL-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "GPS-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
