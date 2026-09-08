@@ -606,9 +606,9 @@
     "notified": false
   },
   "OL-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788888856.663951,
+    "trigger": 71.3,
     "notified": false
   },
   "KAT-USDT-SWAP": {
@@ -633,7 +633,7 @@
     "bias": "LONG",
     "since": 1788884738.6632984,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "ATH-USDT-SWAP": {
     "bias": "NEUTRAL",
