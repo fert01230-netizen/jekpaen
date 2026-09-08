@@ -177,7 +177,7 @@
     "bias": "LONG",
     "since": 1788883309.8676798,
     "trigger": 71.6,
-    "notified": false
+    "notified": true
   },
   "XPL-USDT": {
     "bias": "NEUTRAL",
@@ -483,7 +483,7 @@
     "bias": "LONG",
     "since": 1788879782.3587263,
     "trigger": 70.8,
-    "notified": false
+    "notified": true
   },
   "TURBO-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -579,7 +579,7 @@
     "bias": "LONG",
     "since": 1788883325.9035695,
     "trigger": 71.8,
-    "notified": false
+    "notified": true
   },
   "XRP-USDT-SWAP": {
     "bias": "LONG",
@@ -621,7 +621,7 @@
     "bias": "LONG",
     "since": 1788871949.127755,
     "trigger": 71.8,
-    "notified": false
+    "notified": true
   },
   "ZK-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -630,9 +630,9 @@
     "notified": false
   },
   "PONS-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788884738.6632984,
+    "trigger": 70.9,
     "notified": false
   },
   "ATH-USDT-SWAP": {
