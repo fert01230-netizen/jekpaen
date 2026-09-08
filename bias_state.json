@@ -585,7 +585,7 @@
     "bias": "LONG",
     "since": 1788883326.6049678,
     "trigger": 73.8,
-    "notified": false
+    "notified": true
   },
   "CHIP-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -765,6 +765,6 @@
     "bias": "LONG",
     "since": 1788886224.9495094,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   }
 }
