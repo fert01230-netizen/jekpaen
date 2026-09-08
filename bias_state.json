@@ -45,7 +45,7 @@
     "bias": "LONG",
     "since": 1788883304.9124925,
     "trigger": 72.5,
-    "notified": false
+    "notified": true
   },
   "CP-USDT": {
     "bias": "NEUTRAL",
@@ -57,7 +57,7 @@
     "bias": "SHORT",
     "since": 1788873910.7772431,
     "trigger": 28.5,
-    "notified": false
+    "notified": true
   },
   "WLD-USDT": {
     "bias": "NEUTRAL",
