@@ -120,9 +120,9 @@
     "notified": false
   },
   "DOT-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788881129.482797,
+    "trigger": 71.7,
     "notified": false
   },
   "LINK-USDT": {
@@ -207,7 +207,7 @@
     "bias": "LONG",
     "since": 1788873916.7181113,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "ICP-USDT": {
     "bias": "NEUTRAL",
@@ -756,9 +756,9 @@
     "notified": false
   },
   "ETC-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788881138.3241427,
+    "trigger": 74.7,
     "notified": false
   }
 }
