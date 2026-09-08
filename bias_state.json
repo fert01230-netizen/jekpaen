@@ -766,5 +766,11 @@
     "since": 1788886224.9495094,
     "trigger": 70.4,
     "notified": true
+  },
+  "CRO-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
