@@ -288,9 +288,9 @@
     "notified": false
   },
   "XMSTR-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788874657.326833,
+    "trigger": 29.3,
     "notified": false
   },
   "FET-USDT": {
@@ -345,7 +345,7 @@
     "bias": "LONG",
     "since": 1788871936.6282256,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "STRK-USDT": {
     "bias": "NEUTRAL",
@@ -669,7 +669,7 @@
     "bias": "LONG",
     "since": 1788871951.1780837,
     "trigger": 74.6,
-    "notified": false
+    "notified": true
   },
   "CHZ-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -720,6 +720,12 @@
     "notified": false
   },
   "BEAT-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "W-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
