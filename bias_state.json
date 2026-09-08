@@ -687,7 +687,7 @@
     "bias": "LONG",
     "since": 1788896030.4238906,
     "trigger": 73.6,
-    "notified": false
+    "notified": true
   },
   "MEGA-USDT-SWAP": {
     "bias": "NEUTRAL",
