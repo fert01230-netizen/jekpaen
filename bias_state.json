@@ -1,8 +1,8 @@
 {
   "BTC-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788875480.3012795,
+    "trigger": 28.8,
     "notified": false
   },
   "ETH-USDT": {
@@ -654,9 +654,9 @@
     "notified": false
   },
   "BILL-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788875507.9145896,
+    "trigger": 26.0,
     "notified": false
   },
   "OP-USDT-SWAP": {
@@ -726,6 +726,12 @@
     "notified": false
   },
   "W-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "MOVE-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
