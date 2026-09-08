@@ -3,7 +3,7 @@
     "bias": "SHORT",
     "since": 1788875480.3012795,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "ETH-USDT": {
     "bias": "NEUTRAL",
@@ -480,9 +480,9 @@
     "notified": false
   },
   "USELESS-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788879782.3587263,
+    "trigger": 70.8,
     "notified": false
   },
   "TURBO-USDT-SWAP": {
