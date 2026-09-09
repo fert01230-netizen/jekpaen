@@ -480,10 +480,10 @@
     "notified": false
   },
   "USELESS-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788879782.3587263,
-    "trigger": 70.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1788997568.9426103,
+    "trigger": 29.8,
+    "notified": false
   },
   "TURBO-USDT-SWAP": {
     "bias": "NEUTRAL",
