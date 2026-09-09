@@ -808,5 +808,17 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "KAT-USDT": {
+    "bias": "LONG",
+    "since": 1788932928.724732,
+    "trigger": 74.9,
+    "notified": false
+  },
+  "PROS-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
