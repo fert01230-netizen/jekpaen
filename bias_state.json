@@ -771,7 +771,7 @@
     "bias": "LONG",
     "since": 1788915205.0463235,
     "trigger": 70.6,
-    "notified": false
+    "notified": true
   },
   "SHIB-USDT": {
     "bias": "NEUTRAL",
