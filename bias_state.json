@@ -48,9 +48,9 @@
     "notified": true
   },
   "CP-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788981669.9521275,
+    "trigger": 27.8,
     "notified": false
   },
   "HYPE-USDT": {
@@ -384,9 +384,9 @@
     "notified": false
   },
   "SOPH-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788981679.7628427,
+    "trigger": 29.5,
     "notified": false
   },
   "IOST-USDT-SWAP": {
@@ -630,10 +630,10 @@
     "notified": false
   },
   "PONS-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788884738.6632984,
-    "trigger": 70.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1788981689.9248247,
+    "trigger": 29.9,
+    "notified": false
   },
   "ATH-USDT-SWAP": {
     "bias": "NEUTRAL",
