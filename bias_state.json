@@ -291,7 +291,7 @@
     "bias": "SHORT",
     "since": 1788874657.326833,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "FET-USDT": {
     "bias": "NEUTRAL",
