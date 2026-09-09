@@ -21,7 +21,7 @@
     "bias": "LONG",
     "since": 1788929383.4276721,
     "trigger": 71.7,
-    "notified": false
+    "notified": true
   },
   "USDC-USDT": {
     "bias": "NEUTRAL",
