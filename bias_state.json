@@ -258,9 +258,9 @@
     "notified": false
   },
   "RAY-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788933705.5263004,
+    "trigger": 70.9,
     "notified": false
   },
   "MON-USDT": {
