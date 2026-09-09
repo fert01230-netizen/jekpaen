@@ -72,9 +72,9 @@
     "notified": false
   },
   "LIT-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788931316.6045163,
+    "trigger": 72.9,
     "notified": false
   },
   "USDG-USDT": {
