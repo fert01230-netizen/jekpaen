@@ -198,9 +198,9 @@
     "notified": false
   },
   "XLM-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788994927.9003808,
+    "trigger": 29.9,
     "notified": false
   },
   "TRX-USDT": {
