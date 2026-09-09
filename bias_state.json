@@ -84,9 +84,9 @@
     "notified": false
   },
   "SOPH-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788984069.9796057,
+    "trigger": 28.5,
     "notified": false
   },
   "BNB-USDT": {
@@ -444,9 +444,9 @@
     "notified": false
   },
   "PENGU-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788984079.2887363,
+    "trigger": 28.9,
     "notified": false
   },
   "MEME-USDT-SWAP": {
@@ -462,9 +462,9 @@
     "notified": false
   },
   "GALA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788984080.0398932,
+    "trigger": 29.4,
     "notified": false
   },
   "MEW-USDT-SWAP": {
