@@ -802,5 +802,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "F-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
