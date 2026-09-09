@@ -762,10 +762,10 @@
     "notified": true
   },
   "XSPCX-USDT": {
-    "bias": "LONG",
-    "since": 1788886224.9495094,
-    "trigger": 70.4,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1788966082.1178818,
+    "trigger": 28.8,
+    "notified": false
   },
   "CRO-USDT-SWAP": {
     "bias": "LONG",
