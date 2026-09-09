@@ -90,9 +90,9 @@
     "notified": false
   },
   "BNB-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788987668.8949492,
+    "trigger": 29.9,
     "notified": false
   },
   "OKB-USDT": {
