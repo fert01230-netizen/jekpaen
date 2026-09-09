@@ -838,5 +838,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "ETHFI-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
