@@ -837,7 +837,7 @@
     "bias": "SHORT",
     "since": 1788967434.7702804,
     "trigger": 29.4,
-    "notified": false
+    "notified": true
   },
   "ETHFI-USDT": {
     "bias": "NEUTRAL",
