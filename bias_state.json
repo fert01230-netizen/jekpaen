@@ -123,7 +123,7 @@
     "bias": "LONG",
     "since": 1788881129.482797,
     "trigger": 71.7,
-    "notified": false
+    "notified": true
   },
   "LINK-USDT": {
     "bias": "NEUTRAL",
@@ -273,7 +273,7 @@
     "bias": "LONG",
     "since": 1788877547.78722,
     "trigger": 72.3,
-    "notified": false
+    "notified": true
   },
   "APT-USDT": {
     "bias": "NEUTRAL",
