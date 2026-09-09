@@ -168,9 +168,9 @@
     "notified": false
   },
   "BCH-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788994018.1926453,
+    "trigger": 29.9,
     "notified": false
   },
   "ADA-USDT": {
