@@ -862,5 +862,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "FOGO-USDT-SWAP": {
+    "bias": "SHORT",
+    "since": 1788968252.8940117,
+    "trigger": 23.9,
+    "notified": false
   }
 }
