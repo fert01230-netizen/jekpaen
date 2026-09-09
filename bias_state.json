@@ -300,9 +300,9 @@
     "notified": false
   },
   "PENGU-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788983161.1266737,
+    "trigger": 30.0,
     "notified": false
   },
   "TIA-USDT": {
@@ -510,9 +510,9 @@
     "notified": false
   },
   "TRIA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788983167.8573973,
+    "trigger": 27.1,
     "notified": false
   },
   "ZORA-USDT-SWAP": {
@@ -627,7 +627,7 @@
     "bias": "LONG",
     "since": 1788980488.529368,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "PONS-USDT-SWAP": {
     "bias": "SHORT",
