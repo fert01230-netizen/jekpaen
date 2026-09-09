@@ -832,5 +832,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "BIGTIME-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
