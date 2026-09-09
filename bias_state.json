@@ -261,7 +261,7 @@
     "bias": "LONG",
     "since": 1788933705.5263004,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "MON-USDT": {
     "bias": "NEUTRAL",
@@ -822,6 +822,12 @@
     "notified": false
   },
   "JUP-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "RVN-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
