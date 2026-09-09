@@ -552,9 +552,9 @@
     "notified": false
   },
   "ANIME-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788958579.6867468,
+    "trigger": 70.0,
     "notified": false
   },
   "HOME-USDT-SWAP": {
