@@ -624,9 +624,9 @@
     "notified": false
   },
   "ZK-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788980488.529368,
+    "trigger": 70.1,
     "notified": false
   },
   "PONS-USDT-SWAP": {
