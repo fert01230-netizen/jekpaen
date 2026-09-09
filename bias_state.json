@@ -615,7 +615,7 @@
     "bias": "LONG",
     "since": 1788920621.5222642,
     "trigger": 74.3,
-    "notified": false
+    "notified": true
   },
   "ICX-USDT-SWAP": {
     "bias": "LONG",
@@ -813,7 +813,7 @@
     "bias": "LONG",
     "since": 1788932928.724732,
     "trigger": 74.9,
-    "notified": false
+    "notified": true
   },
   "PROS-USDT": {
     "bias": "NEUTRAL",
