@@ -796,5 +796,11 @@
     "since": 1788915728.849683,
     "trigger": 70.8,
     "notified": true
+  },
+  "AEON-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
