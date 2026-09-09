@@ -790,5 +790,11 @@
     "since": 1788911187.002438,
     "trigger": 79.0,
     "notified": false
+  },
+  "ATOM-USDT": {
+    "bias": "LONG",
+    "since": 1788915728.849683,
+    "trigger": 70.8,
+    "notified": false
   }
 }
