@@ -126,9 +126,9 @@
     "notified": true
   },
   "LINK-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788949432.070766,
+    "trigger": 28.8,
     "notified": false
   },
   "LTC-USDT": {
@@ -840,6 +840,12 @@
     "notified": false
   },
   "ETHFI-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "SPACE-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
