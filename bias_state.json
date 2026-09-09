@@ -555,7 +555,7 @@
     "bias": "LONG",
     "since": 1788958579.6867468,
     "trigger": 70.0,
-    "notified": false
+    "notified": true
   },
   "HOME-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -852,6 +852,12 @@
     "notified": false
   },
   "SEI-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "OL-USDT": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
