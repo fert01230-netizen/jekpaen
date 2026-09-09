@@ -144,9 +144,9 @@
     "notified": false
   },
   "NEAR-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788954540.178142,
+    "trigger": 70.9,
     "notified": false
   },
   "PEPE-USDT": {
