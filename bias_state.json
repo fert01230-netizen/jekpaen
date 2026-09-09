@@ -348,9 +348,9 @@
     "notified": true
   },
   "STRK-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788974534.0313177,
+    "trigger": 71.4,
     "notified": false
   },
   "ASTER-USDT": {
@@ -642,9 +642,9 @@
     "notified": false
   },
   "STRK-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788974542.7614233,
+    "trigger": 70.9,
     "notified": false
   },
   "ROBO-USDT-SWAP": {
