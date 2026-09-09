@@ -36,9 +36,9 @@
     "notified": false
   },
   "SUI-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788993209.7442086,
+    "trigger": 29.6,
     "notified": false
   },
   "XRP-USDT": {
@@ -186,9 +186,9 @@
     "notified": false
   },
   "ENA-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788993212.4764845,
+    "trigger": 29.7,
     "notified": false
   },
   "ONDO-USDT": {
@@ -264,9 +264,9 @@
     "notified": true
   },
   "MON-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788993217.9477298,
+    "trigger": 30.0,
     "notified": false
   },
   "XINTC-USDT": {
@@ -393,7 +393,7 @@
     "bias": "LONG",
     "since": 1788938665.4880114,
     "trigger": 74.0,
-    "notified": false
+    "notified": true
   },
   "PUMP-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -408,9 +408,9 @@
     "notified": false
   },
   "NEIRO-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788993220.5299525,
+    "trigger": 29.2,
     "notified": false
   },
   "DOOD-USDT-SWAP": {
@@ -534,9 +534,9 @@
     "notified": false
   },
   "ENA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788993225.2685494,
+    "trigger": 29.7,
     "notified": false
   },
   "BICO-USDT-SWAP": {
@@ -594,9 +594,9 @@
     "notified": false
   },
   "SUI-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788993229.332671,
+    "trigger": 29.5,
     "notified": false
   },
   "SENT-USDT-SWAP": {
@@ -684,10 +684,10 @@
     "notified": false
   },
   "ZIL-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788896030.4238906,
-    "trigger": 73.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1788993224.178468,
+    "trigger": 28.3,
+    "notified": false
   },
   "MEGA-USDT-SWAP": {
     "bias": "NEUTRAL",
