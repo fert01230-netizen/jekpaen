@@ -30,9 +30,9 @@
     "notified": false
   },
   "DOGE-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788985390.1754868,
+    "trigger": 29.4,
     "notified": false
   },
   "SUI-USDT": {
@@ -402,9 +402,9 @@
     "notified": false
   },
   "FLOKI-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788985401.1358624,
+    "trigger": 29.8,
     "notified": false
   },
   "NEIRO-USDT-SWAP": {
@@ -426,9 +426,9 @@
     "notified": false
   },
   "DOGE-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788985401.8521585,
+    "trigger": 29.5,
     "notified": false
   },
   "CP-USDT-SWAP": {
