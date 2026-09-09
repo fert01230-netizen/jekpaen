@@ -147,7 +147,7 @@
     "bias": "LONG",
     "since": 1788954540.178142,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "PEPE-USDT": {
     "bias": "NEUTRAL",
@@ -360,9 +360,9 @@
     "notified": false
   },
   "SATS-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788967423.300927,
+    "trigger": 29.8,
     "notified": false
   },
   "PEPE-USDT-SWAP": {
@@ -492,9 +492,9 @@
     "notified": false
   },
   "ONE-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788967428.0058432,
+    "trigger": 24.3,
     "notified": false
   },
   "RLS-USDT-SWAP": {
@@ -834,9 +834,9 @@
     "notified": false
   },
   "BIGTIME-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788967434.7702804,
+    "trigger": 29.4,
     "notified": false
   },
   "ETHFI-USDT": {
