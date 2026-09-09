@@ -850,5 +850,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "SEI-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
