@@ -252,9 +252,9 @@
     "notified": false
   },
   "IOST-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788938661.956795,
+    "trigger": 74.1,
     "notified": false
   },
   "RAY-USDT": {
@@ -390,9 +390,9 @@
     "notified": false
   },
   "IOST-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788938665.4880114,
+    "trigger": 74.0,
     "notified": false
   },
   "PUMP-USDT-SWAP": {
@@ -816,6 +816,12 @@
     "notified": true
   },
   "PROS-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "JUP-USDT": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
