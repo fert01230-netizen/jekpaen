@@ -60,9 +60,9 @@
     "notified": true
   },
   "WLD-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788991257.3376062,
+    "trigger": 29.9,
     "notified": false
   },
   "UNI-USDT": {
@@ -138,9 +138,9 @@
     "notified": false
   },
   "TRUMP-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788991257.6113114,
+    "trigger": 28.8,
     "notified": false
   },
   "NEAR-USDT": {
@@ -336,9 +336,9 @@
     "notified": false
   },
   "VIRTUAL-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788991268.3441763,
+    "trigger": 29.5,
     "notified": false
   },
   "CRO-USDT": {
@@ -438,9 +438,9 @@
     "notified": false
   },
   "HMSTR-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788991272.8538456,
+    "trigger": 27.8,
     "notified": false
   },
   "PENGU-USDT-SWAP": {
@@ -504,9 +504,9 @@
     "notified": false
   },
   "WLD-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1788991280.4075632,
+    "trigger": 29.8,
     "notified": false
   },
   "TRIA-USDT-SWAP": {
