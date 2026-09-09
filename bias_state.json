@@ -18,9 +18,9 @@
     "notified": false
   },
   "ZEC-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1788929383.4276721,
+    "trigger": 71.7,
     "notified": false
   },
   "USDC-USDT": {
@@ -285,7 +285,7 @@
     "bias": "SHORT",
     "since": 1788876140.032366,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "XMSTR-USDT": {
     "bias": "SHORT",
