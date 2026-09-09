@@ -159,7 +159,7 @@
     "bias": "SHORT",
     "since": 1788900521.4504375,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "INJ-USDT": {
     "bias": "NEUTRAL",
