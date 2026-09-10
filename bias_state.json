@@ -6,15 +6,15 @@
     "notified": true
   },
   "ETH-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789044943.087248,
+    "trigger": 24.8,
     "notified": false
   },
   "SOL-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789044943.4710805,
+    "trigger": 25.1,
     "notified": false
   },
   "ZEC-USDT": {
@@ -42,10 +42,10 @@
     "notified": false
   },
   "XRP-USDT": {
-    "bias": "LONG",
-    "since": 1788883304.9124925,
-    "trigger": 72.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789044943.8448088,
+    "trigger": 25.8,
+    "notified": false
   },
   "CP-USDT": {
     "bias": "SHORT",
@@ -132,9 +132,9 @@
     "notified": false
   },
   "LTC-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789044949.7524292,
+    "trigger": 28.8,
     "notified": false
   },
   "TRUMP-USDT": {
@@ -246,9 +246,9 @@
     "notified": false
   },
   "AAVE-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789044951.4917715,
+    "trigger": 27.8,
     "notified": false
   },
   "IOST-USDT": {
@@ -582,10 +582,10 @@
     "notified": true
   },
   "XRP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788883326.6049678,
-    "trigger": 73.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789044962.5117626,
+    "trigger": 25.9,
+    "notified": false
   },
   "CHIP-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -624,10 +624,10 @@
     "notified": false
   },
   "ZK-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788980488.529368,
-    "trigger": 70.1,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789044964.9994032,
+    "trigger": 29.3,
+    "notified": false
   },
   "PONS-USDT-SWAP": {
     "bias": "SHORT",
