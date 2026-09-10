@@ -327,7 +327,7 @@
     "bias": "SHORT",
     "since": 1788992483.7039425,
     "trigger": 28.7,
-    "notified": false
+    "notified": true
   },
   "OP-USDT": {
     "bias": "NEUTRAL",
@@ -765,7 +765,7 @@
     "bias": "SHORT",
     "since": 1788966082.1178818,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "CRO-USDT-SWAP": {
     "bias": "LONG",
@@ -891,6 +891,12 @@
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
+    "notified": false
+  },
+  "RE-USDT": {
+    "bias": "LONG",
+    "since": 1789032229.239808,
+    "trigger": 71.9,
     "notified": false
   }
 }
