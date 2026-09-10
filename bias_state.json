@@ -495,7 +495,7 @@
     "bias": "SHORT",
     "since": 1788967428.0058432,
     "trigger": 24.3,
-    "notified": false
+    "notified": true
   },
   "RLS-USDT-SWAP": {
     "bias": "LONG",
