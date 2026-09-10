@@ -411,7 +411,7 @@
     "bias": "SHORT",
     "since": 1788993220.5299525,
     "trigger": 29.2,
-    "notified": false
+    "notified": true
   },
   "DOOD-USDT-SWAP": {
     "bias": "NEUTRAL",
