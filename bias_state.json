@@ -141,7 +141,7 @@
     "bias": "SHORT",
     "since": 1788991257.6113114,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "NEAR-USDT": {
     "bias": "LONG",
