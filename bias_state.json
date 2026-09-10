@@ -642,10 +642,10 @@
     "notified": false
   },
   "STRK-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788974542.7614233,
-    "trigger": 70.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789082375.806129,
+    "trigger": 28.0,
+    "notified": false
   },
   "ROBO-USDT-SWAP": {
     "bias": "SHORT",
