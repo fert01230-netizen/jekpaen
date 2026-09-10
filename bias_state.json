@@ -531,7 +531,7 @@
     "bias": "SHORT",
     "since": 1789025761.0690725,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "ENA-USDT-SWAP": {
     "bias": "SHORT",
@@ -789,7 +789,7 @@
     "bias": "SHORT",
     "since": 1788992482.230334,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "ATOM-USDT": {
     "bias": "LONG",
