@@ -880,5 +880,11 @@
     "since": 1788992496.0180943,
     "trigger": 3.8,
     "notified": false
+  },
+  "NES-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
