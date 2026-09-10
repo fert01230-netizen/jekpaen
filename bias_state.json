@@ -216,9 +216,9 @@
     "notified": false
   },
   "XSNDK-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789046542.8794105,
+    "trigger": 29.5,
     "notified": false
   },
   "AVAX-USDT": {
@@ -240,9 +240,9 @@
     "notified": false
   },
   "TAO-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789046538.9227345,
+    "trigger": 29.7,
     "notified": false
   },
   "AAVE-USDT": {
@@ -588,9 +588,9 @@
     "notified": false
   },
   "CHIP-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789046560.4727104,
+    "trigger": 29.5,
     "notified": false
   },
   "SUI-USDT-SWAP": {
@@ -738,9 +738,9 @@
     "notified": false
   },
   "XMU-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789046544.77134,
+    "trigger": 28.4,
     "notified": false
   },
   "XMRVL-USDT": {
