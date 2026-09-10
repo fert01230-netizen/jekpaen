@@ -270,10 +270,10 @@
     "notified": false
   },
   "XINTC-USDT": {
-    "bias": "LONG",
-    "since": 1788877547.78722,
-    "trigger": 72.3,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789048875.9320734,
+    "trigger": 25.3,
+    "notified": false
   },
   "APT-USDT": {
     "bias": "NEUTRAL",
