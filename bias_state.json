@@ -846,9 +846,9 @@
     "notified": false
   },
   "SPACE-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789053854.8624687,
+    "trigger": 29.9,
     "notified": false
   },
   "SEI-USDT-SWAP": {
@@ -906,6 +906,12 @@
     "notified": false
   },
   "HUMA-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "XAAPL-USDT": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
