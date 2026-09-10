@@ -840,9 +840,9 @@
     "notified": true
   },
   "ETHFI-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789050971.174359,
+    "trigger": 70.3,
     "notified": false
   },
   "SPACE-USDT-SWAP": {
