@@ -315,7 +315,7 @@
     "bias": "SHORT",
     "since": 1789058111.8404927,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "XSKHY-USDT": {
     "bias": "NEUTRAL",
