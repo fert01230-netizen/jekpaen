@@ -135,7 +135,7 @@
     "bias": "SHORT",
     "since": 1789044949.7524292,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "TRUMP-USDT": {
     "bias": "SHORT",
@@ -916,5 +916,17 @@
     "since": 1789054557.04675,
     "trigger": 70.1,
     "notified": true
+  },
+  "EIGEN-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "ORDER-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
