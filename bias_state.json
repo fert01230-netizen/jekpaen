@@ -898,5 +898,11 @@
     "since": 1789032229.239808,
     "trigger": 71.9,
     "notified": true
+  },
+  "SAHARA-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
