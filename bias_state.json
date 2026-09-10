@@ -528,9 +528,9 @@
     "notified": false
   },
   "MON-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789025761.0690725,
+    "trigger": 29.3,
     "notified": false
   },
   "ENA-USDT-SWAP": {
