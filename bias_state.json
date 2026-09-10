@@ -222,9 +222,9 @@
     "notified": false
   },
   "AVAX-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789058110.014184,
+    "trigger": 29.4,
     "notified": false
   },
   "DASH-USDT": {
@@ -312,9 +312,9 @@
     "notified": false
   },
   "GRAM-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789058111.8404927,
+    "trigger": 29.7,
     "notified": false
   },
   "XSKHY-USDT": {
@@ -843,7 +843,7 @@
     "bias": "LONG",
     "since": 1789050971.174359,
     "trigger": 70.3,
-    "notified": false
+    "notified": true
   },
   "SPACE-USDT-SWAP": {
     "bias": "SHORT",
