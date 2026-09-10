@@ -105,7 +105,7 @@
     "bias": "SHORT",
     "since": 1788969043.3553512,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "FIL-USDT": {
     "bias": "NEUTRAL",
@@ -477,7 +477,7 @@
     "bias": "SHORT",
     "since": 1788969060.8551924,
     "trigger": 29.2,
-    "notified": false
+    "notified": true
   },
   "USELESS-USDT-SWAP": {
     "bias": "SHORT",
