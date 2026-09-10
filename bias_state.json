@@ -18,10 +18,10 @@
     "notified": false
   },
   "ZEC-USDT": {
-    "bias": "LONG",
-    "since": 1788929383.4276721,
-    "trigger": 71.7,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789057367.9894557,
+    "trigger": 28.0,
+    "notified": false
   },
   "USDC-USDT": {
     "bias": "NEUTRAL",
@@ -420,9 +420,9 @@
     "notified": false
   },
   "BOME-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789057385.845891,
+    "trigger": 29.7,
     "notified": false
   },
   "DOGE-USDT-SWAP": {
@@ -564,9 +564,9 @@
     "notified": false
   },
   "LINEA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789057392.9104044,
+    "trigger": 29.0,
     "notified": false
   },
   "RSR-USDT-SWAP": {
