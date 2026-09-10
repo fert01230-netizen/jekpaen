@@ -228,9 +228,9 @@
     "notified": false
   },
   "DASH-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789004964.8485487,
+    "trigger": 29.8,
     "notified": false
   },
   "XSOXL-USDT": {
