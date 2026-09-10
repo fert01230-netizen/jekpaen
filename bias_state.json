@@ -87,7 +87,7 @@
     "bias": "SHORT",
     "since": 1788984069.9796057,
     "trigger": 28.5,
-    "notified": false
+    "notified": true
   },
   "BNB-USDT": {
     "bias": "SHORT",
@@ -387,7 +387,7 @@
     "bias": "SHORT",
     "since": 1788981679.7628427,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "IOST-USDT-SWAP": {
     "bias": "LONG",
