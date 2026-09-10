@@ -114,9 +114,9 @@
     "notified": false
   },
   "PUMP-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789004025.2789361,
+    "trigger": 29.9,
     "notified": false
   },
   "DOT-USDT": {
@@ -396,9 +396,9 @@
     "notified": true
   },
   "PUMP-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789004035.6469274,
+    "trigger": 29.9,
     "notified": false
   },
   "FLOKI-USDT-SWAP": {
