@@ -234,9 +234,9 @@
     "notified": false
   },
   "XSOXL-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789043330.364698,
+    "trigger": 29.4,
     "notified": false
   },
   "TAO-USDT": {
@@ -354,9 +354,9 @@
     "notified": true
   },
   "ASTER-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789043338.0403674,
+    "trigger": 29.4,
     "notified": false
   },
   "SATS-USDT-SWAP": {
