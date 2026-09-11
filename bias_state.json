@@ -15,7 +15,7 @@
     "bias": "SHORT",
     "since": 1789044943.4710805,
     "trigger": 25.1,
-    "notified": false
+    "notified": true
   },
   "ZEC-USDT": {
     "bias": "SHORT",
@@ -189,7 +189,7 @@
     "bias": "SHORT",
     "since": 1788993212.4764845,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "ONDO-USDT": {
     "bias": "SHORT",
@@ -375,7 +375,7 @@
     "bias": "SHORT",
     "since": 1789044255.352731,
     "trigger": 29.6,
-    "notified": false
+    "notified": true
   },
   "BONK-USDT-SWAP": {
     "bias": "SHORT",
@@ -441,7 +441,7 @@
     "bias": "SHORT",
     "since": 1788991272.8538456,
     "trigger": 27.8,
-    "notified": false
+    "notified": true
   },
   "PENGU-USDT-SWAP": {
     "bias": "SHORT",
@@ -537,7 +537,7 @@
     "bias": "SHORT",
     "since": 1788993225.2685494,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "BICO-USDT-SWAP": {
     "bias": "SHORT",
@@ -645,7 +645,7 @@
     "bias": "SHORT",
     "since": 1789082375.806129,
     "trigger": 28.0,
-    "notified": false
+    "notified": true
   },
   "ROBO-USDT-SWAP": {
     "bias": "SHORT",
@@ -777,7 +777,7 @@
     "bias": "SHORT",
     "since": 1789044251.7429948,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "XTSLA-USDT": {
     "bias": "LONG",
