@@ -267,7 +267,7 @@
     "bias": "SHORT",
     "since": 1788993217.9477298,
     "trigger": 30.0,
-    "notified": false
+    "notified": true
   },
   "XINTC-USDT": {
     "bias": "SHORT",
