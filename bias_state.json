@@ -964,5 +964,11 @@
     "since": 1789126457.0400014,
     "trigger": 87.1,
     "notified": false
+  },
+  "MET-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789131694.7325737,
+    "trigger": 75.4,
+    "notified": false
   }
 }
