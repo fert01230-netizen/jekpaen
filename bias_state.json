@@ -928,5 +928,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "BLUR-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
