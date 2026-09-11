@@ -33,7 +33,7 @@
     "bias": "LONG",
     "since": 1789135276.8683834,
     "trigger": 72.6,
-    "notified": false
+    "notified": true
   },
   "SUI-USDT": {
     "bias": "SHORT",
@@ -45,7 +45,7 @@
     "bias": "LONG",
     "since": 1789135276.4826827,
     "trigger": 71.7,
-    "notified": false
+    "notified": true
   },
   "CP-USDT": {
     "bias": "SHORT",
@@ -72,10 +72,10 @@
     "notified": true
   },
   "LIT-USDT": {
-    "bias": "SHORT",
-    "since": 1788992473.4131067,
-    "trigger": 29.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789136601.5920668,
+    "trigger": 70.7,
+    "notified": false
   },
   "USDG-USDT": {
     "bias": "NEUTRAL",
@@ -129,7 +129,7 @@
     "bias": "LONG",
     "since": 1789135279.8789845,
     "trigger": 71.1,
-    "notified": false
+    "notified": true
   },
   "LTC-USDT": {
     "bias": "SHORT",
@@ -189,7 +189,7 @@
     "bias": "LONG",
     "since": 1789135280.8331563,
     "trigger": 70.2,
-    "notified": false
+    "notified": true
   },
   "ONDO-USDT": {
     "bias": "SHORT",
@@ -285,7 +285,7 @@
     "bias": "LONG",
     "since": 1789135281.7072957,
     "trigger": 72.3,
-    "notified": false
+    "notified": true
   },
   "XMSTR-USDT": {
     "bias": "LONG",
@@ -369,7 +369,7 @@
     "bias": "LONG",
     "since": 1789135287.8470206,
     "trigger": 71.2,
-    "notified": false
+    "notified": true
   },
   "SHIB-USDT-SWAP": {
     "bias": "LONG",
@@ -429,7 +429,7 @@
     "bias": "LONG",
     "since": 1789135289.4001715,
     "trigger": 72.8,
-    "notified": false
+    "notified": true
   },
   "CP-USDT-SWAP": {
     "bias": "SHORT",
@@ -537,7 +537,7 @@
     "bias": "LONG",
     "since": 1789135294.5574968,
     "trigger": 70.5,
-    "notified": false
+    "notified": true
   },
   "BICO-USDT-SWAP": {
     "bias": "SHORT",
@@ -585,7 +585,7 @@
     "bias": "LONG",
     "since": 1789135294.744189,
     "trigger": 72.6,
-    "notified": false
+    "notified": true
   },
   "CHIP-USDT-SWAP": {
     "bias": "SHORT",
@@ -822,9 +822,9 @@
     "notified": false
   },
   "JUP-USDT": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789136608.2593713,
+    "trigger": 71.5,
     "notified": false
   },
   "RVN-USDT-SWAP": {
