@@ -15,7 +15,7 @@
     "bias": "LONG",
     "since": 1789135276.0888088,
     "trigger": 77.0,
-    "notified": false
+    "notified": true
   },
   "ZEC-USDT": {
     "bias": "SHORT",
@@ -153,7 +153,7 @@
     "bias": "LONG",
     "since": 1789135278.6641665,
     "trigger": 71.0,
-    "notified": false
+    "notified": true
   },
   "XAUT-USDT": {
     "bias": "SHORT",
@@ -201,7 +201,7 @@
     "bias": "LONG",
     "since": 1789135284.662232,
     "trigger": 70.7,
-    "notified": false
+    "notified": true
   },
   "TRX-USDT": {
     "bias": "SHORT",
