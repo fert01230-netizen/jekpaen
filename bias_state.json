@@ -825,7 +825,7 @@
     "bias": "LONG",
     "since": 1789136608.2593713,
     "trigger": 71.5,
-    "notified": false
+    "notified": true
   },
   "RVN-USDT-SWAP": {
     "bias": "SHORT",
@@ -933,7 +933,7 @@
     "bias": "LONG",
     "since": 1789138892.202275,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   },
   "XORCL-USDT": {
     "bias": "NEUTRAL",
@@ -970,5 +970,11 @@
     "since": 1789131694.7325737,
     "trigger": 75.4,
     "notified": true
+  },
+  "OFC-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
