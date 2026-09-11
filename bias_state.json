@@ -183,7 +183,7 @@
     "bias": "SHORT",
     "since": 1788988860.4902039,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "ENA-USDT": {
     "bias": "SHORT",
@@ -525,7 +525,7 @@
     "bias": "SHORT",
     "since": 1788988876.2608354,
     "trigger": 29.9,
-    "notified": false
+    "notified": true
   },
   "MON-USDT-SWAP": {
     "bias": "SHORT",
