@@ -934,5 +934,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "XORCL-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
