@@ -9,7 +9,7 @@
     "bias": "LONG",
     "since": 1789134560.4748158,
     "trigger": 75.4,
-    "notified": false
+    "notified": true
   },
   "SOL-USDT": {
     "bias": "LONG",
@@ -249,7 +249,7 @@
     "bias": "LONG",
     "since": 1789135284.2731435,
     "trigger": 74.3,
-    "notified": false
+    "notified": true
   },
   "IOST-USDT": {
     "bias": "LONG",
@@ -291,7 +291,7 @@
     "bias": "LONG",
     "since": 1789135282.7919426,
     "trigger": 71.4,
-    "notified": false
+    "notified": true
   },
   "FET-USDT": {
     "bias": "NEUTRAL",
@@ -375,7 +375,7 @@
     "bias": "LONG",
     "since": 1789135288.036823,
     "trigger": 74.9,
-    "notified": false
+    "notified": true
   },
   "BONK-USDT-SWAP": {
     "bias": "SHORT",
@@ -777,7 +777,7 @@
     "bias": "LONG",
     "since": 1789138885.285047,
     "trigger": 71.2,
-    "notified": false
+    "notified": true
   },
   "XTSLA-USDT": {
     "bias": "LONG",
