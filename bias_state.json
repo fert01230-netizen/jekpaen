@@ -753,7 +753,7 @@
     "bias": "SHORT",
     "since": 1789096994.4404833,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "ETC-USDT": {
     "bias": "LONG",
