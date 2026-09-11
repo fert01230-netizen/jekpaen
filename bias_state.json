@@ -723,7 +723,7 @@
     "bias": "LONG",
     "since": 1789151837.363926,
     "trigger": 70.2,
-    "notified": false
+    "notified": true
   },
   "W-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -972,6 +972,12 @@
     "notified": true
   },
   "OFC-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "POL-USDT": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
