@@ -75,7 +75,7 @@
     "bias": "LONG",
     "since": 1789136601.5920668,
     "trigger": 70.7,
-    "notified": false
+    "notified": true
   },
   "USDG-USDT": {
     "bias": "NEUTRAL",
