@@ -561,7 +561,7 @@
     "bias": "SHORT",
     "since": 1788992491.0495586,
     "trigger": 20.8,
-    "notified": false
+    "notified": true
   },
   "LINEA-USDT-SWAP": {
     "bias": "SHORT",
@@ -957,7 +957,7 @@
     "bias": "LONG",
     "since": 1789125731.5049825,
     "trigger": 85.0,
-    "notified": false
+    "notified": true
   },
   "STORJ-USDT": {
     "bias": "LONG",
@@ -969,6 +969,6 @@
     "bias": "LONG",
     "since": 1789131694.7325737,
     "trigger": 75.4,
-    "notified": false
+    "notified": true
   }
 }
