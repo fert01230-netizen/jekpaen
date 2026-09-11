@@ -237,7 +237,7 @@
     "bias": "SHORT",
     "since": 1789043330.364698,
     "trigger": 29.4,
-    "notified": false
+    "notified": true
   },
   "TAO-USDT": {
     "bias": "SHORT",
@@ -273,7 +273,7 @@
     "bias": "SHORT",
     "since": 1789048875.9320734,
     "trigger": 25.3,
-    "notified": false
+    "notified": true
   },
   "APT-USDT": {
     "bias": "NEUTRAL",
@@ -741,7 +741,7 @@
     "bias": "SHORT",
     "since": 1789046544.77134,
     "trigger": 28.4,
-    "notified": false
+    "notified": true
   },
   "XMRVL-USDT": {
     "bias": "NEUTRAL",
