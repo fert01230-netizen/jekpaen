@@ -3,7 +3,7 @@
     "bias": "LONG",
     "since": 1789135275.4934924,
     "trigger": 74.4,
-    "notified": false
+    "notified": true
   },
   "ETH-USDT": {
     "bias": "LONG",
@@ -93,7 +93,7 @@
     "bias": "LONG",
     "since": 1789135278.2665691,
     "trigger": 74.0,
-    "notified": false
+    "notified": true
   },
   "OKB-USDT": {
     "bias": "SHORT",
@@ -405,7 +405,7 @@
     "bias": "LONG",
     "since": 1789135288.8304882,
     "trigger": 72.2,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "SHORT",
