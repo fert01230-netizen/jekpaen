@@ -219,7 +219,7 @@
     "bias": "SHORT",
     "since": 1789046542.8794105,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "AVAX-USDT": {
     "bias": "SHORT",
