@@ -513,7 +513,7 @@
     "bias": "SHORT",
     "since": 1788983167.8573973,
     "trigger": 27.1,
-    "notified": false
+    "notified": true
   },
   "ZORA-USDT-SWAP": {
     "bias": "SHORT",
