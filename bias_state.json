@@ -774,10 +774,10 @@
     "notified": true
   },
   "SHIB-USDT": {
-    "bias": "SHORT",
-    "since": 1789044251.7429948,
-    "trigger": 29.7,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789138885.285047,
+    "trigger": 71.2,
+    "notified": false
   },
   "XTSLA-USDT": {
     "bias": "LONG",
@@ -930,9 +930,9 @@
     "notified": false
   },
   "BLUR-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789138892.202275,
+    "trigger": 70.4,
     "notified": false
   },
   "XORCL-USDT": {
