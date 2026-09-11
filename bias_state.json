@@ -720,10 +720,10 @@
     "notified": false
   },
   "BEAT-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788992495.6944816,
-    "trigger": 9.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789151837.363926,
+    "trigger": 70.2,
+    "notified": false
   },
   "W-USDT-SWAP": {
     "bias": "NEUTRAL",
