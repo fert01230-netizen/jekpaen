@@ -45,7 +45,7 @@
     "bias": "SHORT",
     "since": 1789044943.8448088,
     "trigger": 25.8,
-    "notified": false
+    "notified": true
   },
   "CP-USDT": {
     "bias": "SHORT",
@@ -585,7 +585,7 @@
     "bias": "SHORT",
     "since": 1789044962.5117626,
     "trigger": 25.9,
-    "notified": false
+    "notified": true
   },
   "CHIP-USDT-SWAP": {
     "bias": "SHORT",
