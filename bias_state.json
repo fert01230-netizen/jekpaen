@@ -174,10 +174,10 @@
     "notified": false
   },
   "ADA-USDT": {
-    "bias": "LONG",
-    "since": 1788883309.8676798,
-    "trigger": 71.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789125724.8630238,
+    "trigger": 29.7,
+    "notified": false
   },
   "XPL-USDT": {
     "bias": "SHORT",
@@ -576,10 +576,10 @@
     "notified": false
   },
   "ADA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788883325.9035695,
-    "trigger": 71.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789125739.5007553,
+    "trigger": 29.7,
+    "notified": false
   },
   "XRP-USDT-SWAP": {
     "bias": "SHORT",
@@ -951,6 +951,12 @@
     "bias": "SHORT",
     "since": 1789122211.509513,
     "trigger": 13.3,
+    "notified": false
+  },
+  "MET-USDT": {
+    "bias": "LONG",
+    "since": 1789125731.5049825,
+    "trigger": 85.0,
     "notified": false
   }
 }
