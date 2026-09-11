@@ -940,5 +940,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "PAXG-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
