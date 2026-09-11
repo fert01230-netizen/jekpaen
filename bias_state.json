@@ -702,9 +702,9 @@
     "notified": false
   },
   "WLFI-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1789122222.0583422,
+    "trigger": 13.6,
     "notified": false
   },
   "ZAMA-USDT-SWAP": {
@@ -876,10 +876,10 @@
     "notified": false
   },
   "LAB-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788992496.0180943,
-    "trigger": 3.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789122221.4744582,
+    "trigger": 73.9,
+    "notified": false
   },
   "NES-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -945,6 +945,12 @@
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
+    "notified": false
+  },
+  "WLFI-USDT": {
+    "bias": "SHORT",
+    "since": 1789122211.509513,
+    "trigger": 13.3,
     "notified": false
   }
 }
