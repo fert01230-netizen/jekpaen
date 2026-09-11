@@ -234,10 +234,10 @@
     "notified": false
   },
   "XSOXL-USDT": {
-    "bias": "SHORT",
-    "since": 1789043330.364698,
-    "trigger": 29.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789148767.2176912,
+    "trigger": 70.0,
+    "notified": false
   },
   "TAO-USDT": {
     "bias": "SHORT",
@@ -951,7 +951,7 @@
     "bias": "SHORT",
     "since": 1789122211.509513,
     "trigger": 13.3,
-    "notified": false
+    "notified": true
   },
   "MET-USDT": {
     "bias": "LONG",
