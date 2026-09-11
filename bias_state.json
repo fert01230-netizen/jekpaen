@@ -237,7 +237,7 @@
     "bias": "LONG",
     "since": 1789148767.2176912,
     "trigger": 70.0,
-    "notified": false
+    "notified": true
   },
   "TAO-USDT": {
     "bias": "SHORT",
