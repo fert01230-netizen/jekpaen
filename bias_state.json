@@ -6,10 +6,10 @@
     "notified": true
   },
   "ETH-USDT": {
-    "bias": "SHORT",
-    "since": 1789044943.087248,
-    "trigger": 24.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789134560.4748158,
+    "trigger": 75.4,
+    "notified": false
   },
   "SOL-USDT": {
     "bias": "SHORT",
