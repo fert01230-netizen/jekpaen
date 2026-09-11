@@ -93,7 +93,7 @@
     "bias": "SHORT",
     "since": 1788987668.8949492,
     "trigger": 29.9,
-    "notified": false
+    "notified": true
   },
   "OKB-USDT": {
     "bias": "SHORT",
@@ -195,7 +195,7 @@
     "bias": "SHORT",
     "since": 1788992478.8836718,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "XLM-USDT": {
     "bias": "SHORT",
@@ -249,7 +249,7 @@
     "bias": "SHORT",
     "since": 1789044951.4917715,
     "trigger": 27.8,
-    "notified": false
+    "notified": true
   },
   "IOST-USDT": {
     "bias": "LONG",
@@ -303,7 +303,7 @@
     "bias": "SHORT",
     "since": 1788983161.1266737,
     "trigger": 30.0,
-    "notified": false
+    "notified": true
   },
   "TIA-USDT": {
     "bias": "NEUTRAL",
@@ -405,7 +405,7 @@
     "bias": "SHORT",
     "since": 1788985401.1358624,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "SHORT",
@@ -447,19 +447,19 @@
     "bias": "SHORT",
     "since": 1788984079.2887363,
     "trigger": 28.9,
-    "notified": false
+    "notified": true
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
     "since": 1788988871.8623953,
     "trigger": 28.6,
-    "notified": false
+    "notified": true
   },
   "NOT-USDT-SWAP": {
     "bias": "SHORT",
     "since": 1788992488.0510192,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "GALA-USDT-SWAP": {
     "bias": "SHORT",
@@ -471,7 +471,7 @@
     "bias": "SHORT",
     "since": 1789000974.0782423,
     "trigger": 29.6,
-    "notified": false
+    "notified": true
   },
   "ARB-USDT-SWAP": {
     "bias": "SHORT",
@@ -639,7 +639,7 @@
     "bias": "SHORT",
     "since": 1789027292.8216865,
     "trigger": 29.2,
-    "notified": false
+    "notified": true
   },
   "STRK-USDT-SWAP": {
     "bias": "SHORT",
