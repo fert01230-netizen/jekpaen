@@ -834,10 +834,10 @@
     "notified": true
   },
   "BIGTIME-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788967434.7702804,
-    "trigger": 29.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789210895.7332628,
+    "trigger": 70.8,
+    "notified": false
   },
   "ETHFI-USDT": {
     "bias": "LONG",
