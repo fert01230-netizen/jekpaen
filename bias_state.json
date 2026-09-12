@@ -1012,5 +1012,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "BSB-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789223694.510671,
+    "trigger": 76.5,
+    "notified": false
   }
 }
