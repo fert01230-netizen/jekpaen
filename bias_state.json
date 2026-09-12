@@ -675,7 +675,7 @@
     "bias": "LONG",
     "since": 1789183336.5182116,
     "trigger": 73.4,
-    "notified": false
+    "notified": true
   },
   "ACT-USDT-SWAP": {
     "bias": "SHORT",
