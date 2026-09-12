@@ -69,7 +69,7 @@
     "bias": "LONG",
     "since": 1789215915.813347,
     "trigger": 70.5,
-    "notified": false
+    "notified": true
   },
   "LIT-USDT": {
     "bias": "LONG",
