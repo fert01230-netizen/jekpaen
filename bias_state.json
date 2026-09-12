@@ -564,10 +564,10 @@
     "notified": true
   },
   "LINEA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789057392.9104044,
-    "trigger": 29.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789219239.8161674,
+    "trigger": 71.7,
+    "notified": false
   },
   "RSR-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -993,7 +993,7 @@
     "bias": "LONG",
     "since": 1789195127.5321574,
     "trigger": 76.2,
-    "notified": false
+    "notified": true
   },
   "MINA-USDT": {
     "bias": "NEUTRAL",
@@ -1002,6 +1002,12 @@
     "notified": false
   },
   "MINA-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "CHZ-USDT": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
