@@ -357,7 +357,7 @@
     "bias": "SHORT",
     "since": 1789043338.0403674,
     "trigger": 29.4,
-    "notified": false
+    "notified": true
   },
   "SATS-USDT-SWAP": {
     "bias": "SHORT",
