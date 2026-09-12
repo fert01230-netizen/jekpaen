@@ -681,7 +681,7 @@
     "bias": "SHORT",
     "since": 1789000145.7738311,
     "trigger": 30.0,
-    "notified": false
+    "notified": true
   },
   "ZIL-USDT-SWAP": {
     "bias": "SHORT",
