@@ -207,7 +207,7 @@
     "bias": "LONG",
     "since": 1789191199.411266,
     "trigger": 77.5,
-    "notified": false
+    "notified": true
   },
   "ICP-USDT": {
     "bias": "NEUTRAL",
