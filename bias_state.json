@@ -982,5 +982,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "LSK-USDT": {
+    "bias": "LONG",
+    "since": 1789191993.1556962,
+    "trigger": 82.3,
+    "notified": false
   }
 }
