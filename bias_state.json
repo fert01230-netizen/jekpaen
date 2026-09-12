@@ -450,10 +450,10 @@
     "notified": true
   },
   "MEME-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788988871.8623953,
-    "trigger": 28.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789226422.6683905,
+    "trigger": 73.6,
+    "notified": false
   },
   "NOT-USDT-SWAP": {
     "bias": "SHORT",
@@ -1020,9 +1020,9 @@
     "notified": false
   },
   "MERL-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789226431.8345635,
+    "trigger": 73.0,
     "notified": false
   }
 }
