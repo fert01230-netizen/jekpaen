@@ -672,9 +672,9 @@
     "notified": true
   },
   "CHZ-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789183336.5182116,
+    "trigger": 73.4,
     "notified": false
   },
   "ACT-USDT-SWAP": {
