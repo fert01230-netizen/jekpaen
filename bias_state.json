@@ -994,5 +994,11 @@
     "since": 1789195127.5321574,
     "trigger": 76.2,
     "notified": false
+  },
+  "MINA-USDT": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
