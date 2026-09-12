@@ -702,10 +702,10 @@
     "notified": false
   },
   "WLFI-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789122222.0583422,
-    "trigger": 13.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789230112.7019699,
+    "trigger": 70.4,
+    "notified": false
   },
   "ZAMA-USDT-SWAP": {
     "bias": "NEUTRAL",
