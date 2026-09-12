@@ -122,7 +122,8 @@ def main():
     bias = load_bias()
     ev = {"FLIP_SHORT": [], "FLIP_LONG": [], "ENTRY_SHORT": [], "ENTRY_LONG": []}
 
-    pairs = get_symbols("SPOT") + get_symbols("SWAP")
+    pairs = get_symbols("SWAP")
+
     print(f"scanning {len(pairs)} pairs on {BAR}")
 
     for inst, price in pairs:
