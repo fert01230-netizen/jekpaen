@@ -414,9 +414,9 @@
     "notified": true
   },
   "DOOD-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789234311.0924702,
+    "trigger": 70.5,
     "notified": false
   },
   "BOME-USDT-SWAP": {
