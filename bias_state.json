@@ -988,5 +988,11 @@
     "since": 1789191993.1556962,
     "trigger": 82.3,
     "notified": false
+  },
+  "MUBARAK-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789195127.5321574,
+    "trigger": 76.2,
+    "notified": false
   }
 }
