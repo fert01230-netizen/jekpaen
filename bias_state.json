@@ -396,10 +396,10 @@
     "notified": true
   },
   "PUMP-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789004035.6469274,
-    "trigger": 29.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789235155.0013423,
+    "trigger": 72.0,
+    "notified": false
   },
   "FLOKI-USDT-SWAP": {
     "bias": "LONG",
@@ -567,7 +567,7 @@
     "bias": "LONG",
     "since": 1789219239.8161674,
     "trigger": 71.7,
-    "notified": false
+    "notified": true
   },
   "RSR-USDT-SWAP": {
     "bias": "NEUTRAL",
