@@ -204,10 +204,10 @@
     "notified": true
   },
   "TRX-USDT": {
-    "bias": "SHORT",
-    "since": 1789126449.5606716,
-    "trigger": 28.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789191199.411266,
+    "trigger": 77.5,
+    "notified": false
   },
   "ICP-USDT": {
     "bias": "NEUTRAL",
