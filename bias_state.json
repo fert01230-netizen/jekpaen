@@ -1048,5 +1048,11 @@
     "since": 1789314392.7482595,
     "trigger": 89.8,
     "notified": false
+  },
+  "BAT-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
