@@ -753,7 +753,7 @@
     "bias": "LONG",
     "since": 1789309986.7301958,
     "trigger": 71.8,
-    "notified": false
+    "notified": true
   },
   "ETC-USDT": {
     "bias": "LONG",
@@ -1042,5 +1042,11 @@
     "since": 1789309994.5376487,
     "trigger": 83.1,
     "notified": true
+  },
+  "FIL-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789314392.7482595,
+    "trigger": 89.8,
+    "notified": false
   }
 }
