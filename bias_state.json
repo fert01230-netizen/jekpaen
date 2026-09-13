@@ -429,7 +429,7 @@
     "bias": "SHORT",
     "since": 1789288516.6510534,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "CP-USDT-SWAP": {
     "bias": "SHORT",
