@@ -1024,5 +1024,11 @@
     "since": 1789226431.8345635,
     "trigger": 73.0,
     "notified": true
+  },
+  "FLOCK-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
