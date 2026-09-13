@@ -876,10 +876,10 @@
     "notified": false
   },
   "LAB-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789122221.4744582,
-    "trigger": 73.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789343156.3691387,
+    "trigger": 27.7,
+    "notified": false
   },
   "NES-USDT-SWAP": {
     "bias": "NEUTRAL",
