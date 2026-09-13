@@ -684,10 +684,10 @@
     "notified": true
   },
   "ZIL-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788993224.178468,
-    "trigger": 28.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789269728.5054667,
+    "trigger": 70.7,
+    "notified": false
   },
   "MEGA-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -846,10 +846,10 @@
     "notified": true
   },
   "SPACE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789053854.8624687,
-    "trigger": 29.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789269729.6180382,
+    "trigger": 70.3,
+    "notified": false
   },
   "SEI-USDT-SWAP": {
     "bias": "NEUTRAL",
