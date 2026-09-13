@@ -1026,9 +1026,9 @@
     "notified": true
   },
   "FLOCK-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789299175.1119928,
+    "trigger": 70.6,
     "notified": false
   },
   "GMT-USDT-SWAP": {
