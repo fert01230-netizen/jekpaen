@@ -636,10 +636,10 @@
     "notified": true
   },
   "ATH-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789027292.8216865,
-    "trigger": 29.2,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789270502.4132757,
+    "trigger": 74.4,
+    "notified": false
   },
   "STRK-USDT-SWAP": {
     "bias": "SHORT",
