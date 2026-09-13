@@ -750,10 +750,10 @@
     "notified": false
   },
   "GPS-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789096994.4404833,
-    "trigger": 29.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789309986.7301958,
+    "trigger": 71.8,
+    "notified": false
   },
   "ETC-USDT": {
     "bias": "LONG",
@@ -1036,5 +1036,11 @@
     "since": 1789263242.970363,
     "trigger": 80.2,
     "notified": true
+  },
+  "GLM-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789309994.5376487,
+    "trigger": 83.1,
+    "notified": false
   }
 }
