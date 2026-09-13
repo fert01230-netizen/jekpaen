@@ -492,10 +492,10 @@
     "notified": true
   },
   "ONE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788967428.0058432,
-    "trigger": 24.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789303830.685198,
+    "trigger": 73.1,
+    "notified": false
   },
   "RLS-USDT-SWAP": {
     "bias": "LONG",
@@ -1029,7 +1029,7 @@
     "bias": "LONG",
     "since": 1789299175.1119928,
     "trigger": 70.6,
-    "notified": false
+    "notified": true
   },
   "GMT-USDT-SWAP": {
     "bias": "LONG",
