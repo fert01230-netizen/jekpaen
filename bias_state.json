@@ -516,10 +516,10 @@
     "notified": true
   },
   "ZORA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788992491.7099051,
-    "trigger": 28.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789284047.4379766,
+    "trigger": 71.8,
+    "notified": false
   },
   "XPL-USDT-SWAP": {
     "bias": "SHORT",
