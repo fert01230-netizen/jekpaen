@@ -831,7 +831,7 @@
     "bias": "LONG",
     "since": 1789328754.2640793,
     "trigger": 71.7,
-    "notified": false
+    "notified": true
   },
   "BIGTIME-USDT-SWAP": {
     "bias": "LONG",
