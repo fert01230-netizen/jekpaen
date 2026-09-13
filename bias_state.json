@@ -615,7 +615,7 @@
     "bias": "SHORT",
     "since": 1789260836.5544162,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "ICX-USDT-SWAP": {
     "bias": "SHORT",
