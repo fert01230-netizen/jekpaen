@@ -828,10 +828,10 @@
     "notified": true
   },
   "RVN-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789032990.934649,
-    "trigger": 17.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789328754.2640793,
+    "trigger": 71.7,
+    "notified": false
   },
   "BIGTIME-USDT-SWAP": {
     "bias": "LONG",
