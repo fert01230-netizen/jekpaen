@@ -573,7 +573,7 @@
     "bias": "LONG",
     "since": 1789268457.9348423,
     "trigger": 70.7,
-    "notified": false
+    "notified": true
   },
   "ADA-USDT-SWAP": {
     "bias": "SHORT",
