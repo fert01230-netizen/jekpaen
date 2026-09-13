@@ -639,7 +639,7 @@
     "bias": "LONG",
     "since": 1789270502.4132757,
     "trigger": 74.4,
-    "notified": false
+    "notified": true
   },
   "STRK-USDT-SWAP": {
     "bias": "SHORT",
@@ -849,7 +849,7 @@
     "bias": "LONG",
     "since": 1789269729.6180382,
     "trigger": 70.3,
-    "notified": false
+    "notified": true
   },
   "SEI-USDT-SWAP": {
     "bias": "NEUTRAL",
