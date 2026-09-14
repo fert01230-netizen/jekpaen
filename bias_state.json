@@ -1054,5 +1054,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "BABY-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
