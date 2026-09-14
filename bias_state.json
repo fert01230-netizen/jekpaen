@@ -1078,5 +1078,11 @@
     "since": 1789398218.2565465,
     "trigger": 72.1,
     "notified": true
+  },
+  "XLM-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789408176.8026724,
+    "trigger": 79.3,
+    "notified": false
   }
 }
