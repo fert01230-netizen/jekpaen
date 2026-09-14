@@ -1072,5 +1072,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "LA-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789398218.2565465,
+    "trigger": 72.1,
+    "notified": false
   }
 }
