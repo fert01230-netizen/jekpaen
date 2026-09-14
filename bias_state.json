@@ -1060,5 +1060,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "UB-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
