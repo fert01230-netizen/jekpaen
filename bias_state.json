@@ -393,7 +393,7 @@
     "bias": "SHORT",
     "since": 1789315260.175158,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "PUMP-USDT-SWAP": {
     "bias": "LONG",
