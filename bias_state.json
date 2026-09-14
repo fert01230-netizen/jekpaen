@@ -1066,5 +1066,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "IOTA-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
