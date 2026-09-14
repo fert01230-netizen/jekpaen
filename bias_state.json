@@ -699,7 +699,7 @@
     "bias": "LONG",
     "since": 1789382121.7135735,
     "trigger": 83.0,
-    "notified": false
+    "notified": true
   },
   "WLFI-USDT-SWAP": {
     "bias": "LONG",
