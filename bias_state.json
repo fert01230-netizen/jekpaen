@@ -801,7 +801,7 @@
     "bias": "SHORT",
     "since": 1788992497.3542898,
     "trigger": 22.3,
-    "notified": false
+    "notified": true
   },
   "F-USDT-SWAP": {
     "bias": "NEUTRAL",
