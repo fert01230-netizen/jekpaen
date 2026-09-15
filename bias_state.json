@@ -672,10 +672,10 @@
     "notified": true
   },
   "CHZ-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789183336.5182116,
-    "trigger": 73.4,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789458744.645528,
+    "trigger": 30.0,
+    "notified": false
   },
   "ACT-USDT-SWAP": {
     "bias": "SHORT",
@@ -828,10 +828,10 @@
     "notified": true
   },
   "RVN-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789328754.2640793,
-    "trigger": 71.7,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789458740.8312795,
+    "trigger": 25.6,
+    "notified": false
   },
   "BIGTIME-USDT-SWAP": {
     "bias": "LONG",
