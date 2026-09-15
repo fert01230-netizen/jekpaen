@@ -1080,9 +1080,9 @@
     "notified": true
   },
   "XLM-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789408176.8026724,
-    "trigger": 79.3,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789503725.5702393,
+    "trigger": 27.6,
+    "notified": false
   }
 }
