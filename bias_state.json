@@ -474,10 +474,10 @@
     "notified": true
   },
   "ARB-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788969060.8551924,
-    "trigger": 29.2,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789487396.3899348,
+    "trigger": 70.8,
+    "notified": false
   },
   "USELESS-USDT-SWAP": {
     "bias": "SHORT",
