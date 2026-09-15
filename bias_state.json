@@ -654,10 +654,10 @@
     "notified": true
   },
   "BILL-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788875507.9145896,
-    "trigger": 26.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789457861.075998,
+    "trigger": 72.2,
+    "notified": false
   },
   "OP-USDT-SWAP": {
     "bias": "LONG",
