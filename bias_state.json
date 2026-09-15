@@ -405,7 +405,7 @@
     "bias": "SHORT",
     "since": 1789483830.4123769,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "SHORT",
@@ -453,7 +453,7 @@
     "bias": "SHORT",
     "since": 1789483832.9474077,
     "trigger": 28.6,
-    "notified": false
+    "notified": true
   },
   "NOT-USDT-SWAP": {
     "bias": "LONG",
