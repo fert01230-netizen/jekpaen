@@ -1044,10 +1044,10 @@
     "notified": true
   },
   "FIL-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789314392.7482595,
-    "trigger": 89.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789472077.4847383,
+    "trigger": 29.8,
+    "notified": false
   },
   "BAT-USDT-SWAP": {
     "bias": "NEUTRAL",
