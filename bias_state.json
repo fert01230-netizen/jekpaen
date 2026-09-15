@@ -372,10 +372,10 @@
     "notified": true
   },
   "SHIB-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789135288.036823,
-    "trigger": 74.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789498272.7693849,
+    "trigger": 25.6,
+    "notified": false
   },
   "BONK-USDT-SWAP": {
     "bias": "SHORT",
@@ -582,10 +582,10 @@
     "notified": true
   },
   "XRP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789383035.5911064,
-    "trigger": 71.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789498276.9542232,
+    "trigger": 25.8,
+    "notified": false
   },
   "CHIP-USDT-SWAP": {
     "bias": "SHORT",
