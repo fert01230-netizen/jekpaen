@@ -456,10 +456,10 @@
     "notified": true
   },
   "NOT-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789401122.1359916,
-    "trigger": 70.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789507974.9196434,
+    "trigger": 29.3,
+    "notified": false
   },
   "GALA-USDT-SWAP": {
     "bias": "SHORT",
