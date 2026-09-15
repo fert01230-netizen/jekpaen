@@ -564,10 +564,10 @@
     "notified": true
   },
   "LINEA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789219239.8161674,
-    "trigger": 71.7,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789459328.637308,
+    "trigger": 28.3,
+    "notified": false
   },
   "RSR-USDT-SWAP": {
     "bias": "LONG",
