@@ -402,22 +402,22 @@
     "notified": true
   },
   "FLOKI-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789135288.8304882,
-    "trigger": 72.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789483830.4123769,
+    "trigger": 29.8,
+    "notified": false
   },
   "NEIRO-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789222875.7597704,
-    "trigger": 70.4,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789483830.7871413,
+    "trigger": 27.5,
+    "notified": false
   },
   "DOOD-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789234311.0924702,
-    "trigger": 70.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789483834.1063292,
+    "trigger": 23.6,
+    "notified": false
   },
   "BOME-USDT-SWAP": {
     "bias": "SHORT",
@@ -450,10 +450,10 @@
     "notified": true
   },
   "MEME-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789226422.6683905,
-    "trigger": 73.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789483832.9474077,
+    "trigger": 28.6,
+    "notified": false
   },
   "NOT-USDT-SWAP": {
     "bias": "LONG",
@@ -516,10 +516,10 @@
     "notified": true
   },
   "ZORA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789284047.4379766,
-    "trigger": 71.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789483835.8124447,
+    "trigger": 26.6,
+    "notified": false
   },
   "XPL-USDT-SWAP": {
     "bias": "LONG",
@@ -552,10 +552,10 @@
     "notified": false
   },
   "ANIME-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788958579.6867468,
-    "trigger": 70.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789483836.9529352,
+    "trigger": 28.2,
+    "notified": false
   },
   "HOME-USDT-SWAP": {
     "bias": "SHORT",
@@ -666,10 +666,10 @@
     "notified": true
   },
   "SAHARA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788871951.1780837,
-    "trigger": 74.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789483840.6186996,
+    "trigger": 28.8,
+    "notified": false
   },
   "CHZ-USDT-SWAP": {
     "bias": "SHORT",
