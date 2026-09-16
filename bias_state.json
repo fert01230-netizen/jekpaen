@@ -1090,5 +1090,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "PI-USDT-SWAP": {
+    "bias": "SHORT",
+    "since": 1789561710.156311,
+    "trigger": 21.4,
+    "notified": false
   }
 }
