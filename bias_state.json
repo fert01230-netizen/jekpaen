@@ -1096,5 +1096,11 @@
     "since": 1789561710.156311,
     "trigger": 21.4,
     "notified": true
+  },
+  "AKE-USDT-SWAP": {
+    "bias": "SHORT",
+    "since": 1789596071.1182203,
+    "trigger": 12.7,
+    "notified": false
   }
 }
