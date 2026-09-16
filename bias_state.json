@@ -411,7 +411,7 @@
     "bias": "SHORT",
     "since": 1789483830.7871413,
     "trigger": 27.5,
-    "notified": false
+    "notified": true
   },
   "DOOD-USDT-SWAP": {
     "bias": "SHORT",
@@ -567,7 +567,7 @@
     "bias": "SHORT",
     "since": 1789459328.637308,
     "trigger": 28.3,
-    "notified": false
+    "notified": true
   },
   "RSR-USDT-SWAP": {
     "bias": "SHORT",
@@ -675,7 +675,7 @@
     "bias": "SHORT",
     "since": 1789458744.645528,
     "trigger": 30.0,
-    "notified": false
+    "notified": true
   },
   "ACT-USDT-SWAP": {
     "bias": "SHORT",
