@@ -375,7 +375,7 @@
     "bias": "SHORT",
     "since": 1789498272.7693849,
     "trigger": 25.6,
-    "notified": false
+    "notified": true
   },
   "BONK-USDT-SWAP": {
     "bias": "SHORT",
@@ -849,7 +849,7 @@
     "bias": "SHORT",
     "since": 1789480279.3122838,
     "trigger": 28.6,
-    "notified": false
+    "notified": true
   },
   "SEI-USDT-SWAP": {
     "bias": "NEUTRAL",
