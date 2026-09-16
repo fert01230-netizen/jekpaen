@@ -459,7 +459,7 @@
     "bias": "SHORT",
     "since": 1789507974.9196434,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "GALA-USDT-SWAP": {
     "bias": "SHORT",
