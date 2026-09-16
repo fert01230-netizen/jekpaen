@@ -669,7 +669,7 @@
     "bias": "SHORT",
     "since": 1789483840.6186996,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "CHZ-USDT-SWAP": {
     "bias": "SHORT",
