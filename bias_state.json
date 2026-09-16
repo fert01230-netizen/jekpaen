@@ -417,7 +417,7 @@
     "bias": "SHORT",
     "since": 1789483834.1063292,
     "trigger": 23.6,
-    "notified": false
+    "notified": true
   },
   "BOME-USDT-SWAP": {
     "bias": "SHORT",
@@ -558,10 +558,10 @@
     "notified": false
   },
   "HOME-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788992491.0495586,
-    "trigger": 20.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789566671.0329378,
+    "trigger": 71.6,
+    "notified": false
   },
   "LINEA-USDT-SWAP": {
     "bias": "SHORT",
