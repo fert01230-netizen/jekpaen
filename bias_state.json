@@ -555,7 +555,7 @@
     "bias": "SHORT",
     "since": 1789483836.9529352,
     "trigger": 28.2,
-    "notified": false
+    "notified": true
   },
   "HOME-USDT-SWAP": {
     "bias": "LONG",
@@ -573,7 +573,7 @@
     "bias": "SHORT",
     "since": 1789482930.9682505,
     "trigger": 28.3,
-    "notified": false
+    "notified": true
   },
   "ADA-USDT-SWAP": {
     "bias": "SHORT",
@@ -1083,7 +1083,7 @@
     "bias": "SHORT",
     "since": 1789503725.5702393,
     "trigger": 27.6,
-    "notified": false
+    "notified": true
   },
   "ACH-USDT-SWAP": {
     "bias": "NEUTRAL",
