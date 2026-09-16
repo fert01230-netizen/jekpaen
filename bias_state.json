@@ -609,7 +609,7 @@
     "bias": "SHORT",
     "since": 1789500841.1777952,
     "trigger": 29.1,
-    "notified": false
+    "notified": true
   },
   "KAT-USDT-SWAP": {
     "bias": "SHORT",
