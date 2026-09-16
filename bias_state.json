@@ -519,7 +519,7 @@
     "bias": "SHORT",
     "since": 1789483835.8124447,
     "trigger": 26.6,
-    "notified": false
+    "notified": true
   },
   "XPL-USDT-SWAP": {
     "bias": "LONG",
