@@ -867,7 +867,7 @@
     "bias": "SHORT",
     "since": 1788968252.8940117,
     "trigger": 23.9,
-    "notified": false
+    "notified": true
   },
   "PIPPIN-USDT-SWAP": {
     "bias": "SHORT",
