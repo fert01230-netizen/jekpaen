@@ -1084,5 +1084,11 @@
     "since": 1789503725.5702393,
     "trigger": 27.6,
     "notified": false
+  },
+  "ACH-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
