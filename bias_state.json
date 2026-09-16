@@ -1026,10 +1026,10 @@
     "notified": true
   },
   "FLOCK-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789299175.1119928,
-    "trigger": 70.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789551320.2924285,
+    "trigger": 29.9,
+    "notified": false
   },
   "GMT-USDT-SWAP": {
     "bias": "LONG",
