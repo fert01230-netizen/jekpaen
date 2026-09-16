@@ -390,10 +390,10 @@
     "notified": true
   },
   "IOST-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789315260.175158,
-    "trigger": 29.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789541747.1323931,
+    "trigger": 70.2,
+    "notified": false
   },
   "PUMP-USDT-SWAP": {
     "bias": "SHORT",
