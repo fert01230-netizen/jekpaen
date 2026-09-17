@@ -1132,5 +1132,11 @@
     "since": 1789659265.2815838,
     "trigger": 76.7,
     "notified": false
+  },
+  "RESOLV-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
