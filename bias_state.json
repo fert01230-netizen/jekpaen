@@ -1026,10 +1026,10 @@
     "notified": true
   },
   "FLOCK-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789551320.2924285,
-    "trigger": 29.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789653011.8281512,
+    "trigger": 70.4,
+    "notified": false
   },
   "GMT-USDT-SWAP": {
     "bias": "LONG",
@@ -1122,9 +1122,9 @@
     "notified": false
   },
   "EDEN-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789653012.5913618,
+    "trigger": 70.7,
     "notified": false
   }
 }
