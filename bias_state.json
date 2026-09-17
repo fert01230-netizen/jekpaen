@@ -375,7 +375,7 @@
     "bias": "LONG",
     "since": 1789655080.3815696,
     "trigger": 74.4,
-    "notified": false
+    "notified": true
   },
   "BONK-USDT-SWAP": {
     "bias": "LONG",
