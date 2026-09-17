@@ -879,7 +879,7 @@
     "bias": "LONG",
     "since": 1789627417.2136412,
     "trigger": 72.7,
-    "notified": false
+    "notified": true
   },
   "NES-USDT-SWAP": {
     "bias": "NEUTRAL",
