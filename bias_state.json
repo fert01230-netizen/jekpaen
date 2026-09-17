@@ -417,7 +417,7 @@
     "bias": "LONG",
     "since": 1789620577.674437,
     "trigger": 71.3,
-    "notified": false
+    "notified": true
   },
   "BOME-USDT-SWAP": {
     "bias": "LONG",
