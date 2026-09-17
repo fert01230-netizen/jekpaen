@@ -372,10 +372,10 @@
     "notified": true
   },
   "SHIB-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789498272.7693849,
-    "trigger": 25.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789655080.3815696,
+    "trigger": 74.4,
+    "notified": false
   },
   "BONK-USDT-SWAP": {
     "bias": "LONG",
@@ -402,16 +402,16 @@
     "notified": true
   },
   "FLOKI-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789483830.4123769,
-    "trigger": 29.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789655081.1941817,
+    "trigger": 70.5,
+    "notified": false
   },
   "NEIRO-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789483830.7871413,
-    "trigger": 27.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789655081.9927137,
+    "trigger": 72.5,
+    "notified": false
   },
   "DOOD-USDT-SWAP": {
     "bias": "LONG",
@@ -576,10 +576,10 @@
     "notified": true
   },
   "ADA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789125739.5007553,
-    "trigger": 29.7,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789655089.2739577,
+    "trigger": 70.7,
+    "notified": false
   },
   "XRP-USDT-SWAP": {
     "bias": "SHORT",
