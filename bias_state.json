@@ -510,10 +510,10 @@
     "notified": true
   },
   "TRIA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788983167.8573973,
-    "trigger": 27.1,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789651422.2186854,
+    "trigger": 70.0,
+    "notified": false
   },
   "ZORA-USDT-SWAP": {
     "bias": "LONG",
