@@ -405,13 +405,13 @@
     "bias": "LONG",
     "since": 1789655081.1941817,
     "trigger": 70.5,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "LONG",
     "since": 1789655081.9927137,
     "trigger": 72.5,
-    "notified": false
+    "notified": true
   },
   "DOOD-USDT-SWAP": {
     "bias": "LONG",
@@ -579,7 +579,7 @@
     "bias": "LONG",
     "since": 1789655089.2739577,
     "trigger": 70.7,
-    "notified": false
+    "notified": true
   },
   "XRP-USDT-SWAP": {
     "bias": "SHORT",
