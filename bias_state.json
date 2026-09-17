@@ -399,7 +399,7 @@
     "bias": "LONG",
     "since": 1789626523.748032,
     "trigger": 71.9,
-    "notified": false
+    "notified": true
   },
   "FLOKI-USDT-SWAP": {
     "bias": "SHORT",
