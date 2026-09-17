@@ -513,7 +513,7 @@
     "bias": "LONG",
     "since": 1789651422.2186854,
     "trigger": 70.0,
-    "notified": false
+    "notified": true
   },
   "ZORA-USDT-SWAP": {
     "bias": "LONG",
@@ -1113,9 +1113,15 @@
     "bias": "LONG",
     "since": 1789639273.5601406,
     "trigger": 79.8,
-    "notified": false
+    "notified": true
   },
   "BRETT-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "EDEN-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
