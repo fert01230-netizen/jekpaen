@@ -363,7 +363,7 @@
     "bias": "LONG",
     "since": 1789664462.771735,
     "trigger": 70.3,
-    "notified": false
+    "notified": true
   },
   "PEPE-USDT-SWAP": {
     "bias": "LONG",
