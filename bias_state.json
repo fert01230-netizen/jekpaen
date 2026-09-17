@@ -849,7 +849,7 @@
     "bias": "LONG",
     "since": 1789605791.1428893,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "SEI-USDT-SWAP": {
     "bias": "NEUTRAL",
