@@ -846,10 +846,10 @@
     "notified": true
   },
   "SPACE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789480279.3122838,
-    "trigger": 28.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789605791.1428893,
+    "trigger": 70.1,
+    "notified": false
   },
   "SEI-USDT-SWAP": {
     "bias": "NEUTRAL",
