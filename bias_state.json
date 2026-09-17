@@ -447,7 +447,7 @@
     "bias": "LONG",
     "since": 1789620574.7643905,
     "trigger": 72.2,
-    "notified": false
+    "notified": true
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
