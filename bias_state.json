@@ -465,7 +465,7 @@
     "bias": "LONG",
     "since": 1789634942.1263127,
     "trigger": 70.2,
-    "notified": false
+    "notified": true
   },
   "MEW-USDT-SWAP": {
     "bias": "SHORT",
@@ -675,7 +675,7 @@
     "bias": "LONG",
     "since": 1789664473.6278584,
     "trigger": 73.5,
-    "notified": false
+    "notified": true
   },
   "ACT-USDT-SWAP": {
     "bias": "SHORT",
