@@ -1125,6 +1125,12 @@
     "bias": "LONG",
     "since": 1789653012.5913618,
     "trigger": 70.7,
+    "notified": true
+  },
+  "ONDO-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789659265.2815838,
+    "trigger": 76.7,
     "notified": false
   }
 }
