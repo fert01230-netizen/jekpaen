@@ -1029,7 +1029,7 @@
     "bias": "LONG",
     "since": 1789653011.8281512,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   },
   "GMT-USDT-SWAP": {
     "bias": "LONG",
