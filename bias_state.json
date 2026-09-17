@@ -1108,5 +1108,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "CASHCAT-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1789639273.5601406,
+    "trigger": 79.8,
+    "notified": false
   }
 }
