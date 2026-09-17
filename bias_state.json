@@ -414,10 +414,10 @@
     "notified": true
   },
   "DOOD-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789483834.1063292,
-    "trigger": 23.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789620577.674437,
+    "trigger": 71.3,
+    "notified": false
   },
   "BOME-USDT-SWAP": {
     "bias": "LONG",
@@ -444,10 +444,10 @@
     "notified": true
   },
   "PENGU-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788984079.2887363,
-    "trigger": 28.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789620574.7643905,
+    "trigger": 72.2,
+    "notified": false
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
@@ -546,9 +546,9 @@
     "notified": true
   },
   "PEOPLE-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789620576.508665,
+    "trigger": 70.8,
     "notified": false
   },
   "ANIME-USDT-SWAP": {
@@ -642,10 +642,10 @@
     "notified": true
   },
   "STRK-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789082375.806129,
-    "trigger": 28.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789620583.1336625,
+    "trigger": 70.9,
+    "notified": false
   },
   "ROBO-USDT-SWAP": {
     "bias": "SHORT",
