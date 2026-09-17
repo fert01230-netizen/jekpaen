@@ -828,10 +828,10 @@
     "notified": true
   },
   "RVN-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789458740.8312795,
-    "trigger": 25.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789624152.006515,
+    "trigger": 70.1,
+    "notified": false
   },
   "BIGTIME-USDT-SWAP": {
     "bias": "LONG",
@@ -1101,6 +1101,12 @@
     "bias": "SHORT",
     "since": 1789596071.1182203,
     "trigger": 12.7,
+    "notified": false
+  },
+  "MOODENG-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
     "notified": false
   }
 }
