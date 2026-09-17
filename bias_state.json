@@ -456,10 +456,10 @@
     "notified": true
   },
   "NOT-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789507974.9196434,
-    "trigger": 29.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789662216.4794497,
+    "trigger": 70.8,
+    "notified": false
   },
   "GALA-USDT-SWAP": {
     "bias": "LONG",
@@ -726,9 +726,9 @@
     "notified": true
   },
   "W-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789662224.8274765,
+    "trigger": 76.2,
     "notified": false
   },
   "MOVE-USDT-SWAP": {
