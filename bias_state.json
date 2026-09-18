@@ -471,7 +471,7 @@
     "bias": "LONG",
     "since": 1789696867.186483,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "ARB-USDT-SWAP": {
     "bias": "LONG",
@@ -555,7 +555,7 @@
     "bias": "LONG",
     "since": 1789714900.7847016,
     "trigger": 70.8,
-    "notified": false
+    "notified": true
   },
   "HOME-USDT-SWAP": {
     "bias": "LONG",
@@ -567,13 +567,13 @@
     "bias": "LONG",
     "since": 1789701725.355499,
     "trigger": 74.1,
-    "notified": false
+    "notified": true
   },
   "RSR-USDT-SWAP": {
     "bias": "LONG",
     "since": 1789696873.0617514,
     "trigger": 72.9,
-    "notified": false
+    "notified": true
   },
   "ADA-USDT-SWAP": {
     "bias": "LONG",
@@ -591,7 +591,7 @@
     "bias": "LONG",
     "since": 1789698251.9509716,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "SUI-USDT-SWAP": {
     "bias": "SHORT",
@@ -663,7 +663,7 @@
     "bias": "LONG",
     "since": 1789705349.9807606,
     "trigger": 85.5,
-    "notified": false
+    "notified": true
   },
   "SAHARA-USDT-SWAP": {
     "bias": "SHORT",
@@ -711,7 +711,7 @@
     "bias": "LONG",
     "since": 1789719840.4253268,
     "trigger": 79.7,
-    "notified": false
+    "notified": true
   },
   "CNPY-USDT-SWAP": {
     "bias": "LONG",
@@ -1101,7 +1101,7 @@
     "bias": "LONG",
     "since": 1789726937.7103136,
     "trigger": 75.4,
-    "notified": false
+    "notified": true
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -1131,7 +1131,7 @@
     "bias": "LONG",
     "since": 1789659265.2815838,
     "trigger": 76.7,
-    "notified": false
+    "notified": true
   },
   "RESOLV-USDT-SWAP": {
     "bias": "NEUTRAL",
