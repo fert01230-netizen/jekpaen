@@ -438,10 +438,10 @@
     "notified": true
   },
   "HMSTR-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788991272.8538456,
-    "trigger": 27.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789700463.3835993,
+    "trigger": 70.0,
+    "notified": false
   },
   "PENGU-USDT-SWAP": {
     "bias": "LONG",
@@ -630,10 +630,10 @@
     "notified": true
   },
   "PONS-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788981689.9248247,
-    "trigger": 29.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789700472.538031,
+    "trigger": 70.8,
+    "notified": false
   },
   "ATH-USDT-SWAP": {
     "bias": "LONG",
