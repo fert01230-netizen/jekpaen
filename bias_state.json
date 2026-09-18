@@ -426,10 +426,10 @@
     "notified": true
   },
   "DOGE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789288516.6510534,
-    "trigger": 29.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789701716.2739308,
+    "trigger": 74.2,
+    "notified": false
   },
   "CP-USDT-SWAP": {
     "bias": "SHORT",
@@ -564,10 +564,10 @@
     "notified": true
   },
   "LINEA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789459328.637308,
-    "trigger": 28.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789701725.355499,
+    "trigger": 74.1,
+    "notified": false
   },
   "RSR-USDT-SWAP": {
     "bias": "LONG",
