@@ -507,7 +507,7 @@
     "bias": "LONG",
     "since": 1789694468.6229084,
     "trigger": 74.4,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "LONG",
@@ -804,9 +804,9 @@
     "notified": true
   },
   "F-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789744930.7803931,
+    "trigger": 96.6,
     "notified": false
   },
   "KAT-USDT": {
