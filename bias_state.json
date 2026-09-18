@@ -660,10 +660,10 @@
     "notified": true
   },
   "OP-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789524090.0956585,
-    "trigger": 29.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789705349.9807606,
+    "trigger": 85.5,
+    "notified": false
   },
   "SAHARA-USDT-SWAP": {
     "bias": "SHORT",
