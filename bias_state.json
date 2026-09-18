@@ -1144,5 +1144,11 @@
     "since": 1789739333.273024,
     "trigger": 72.2,
     "notified": false
+  },
+  "HBAR-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
