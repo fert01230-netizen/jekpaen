@@ -1056,9 +1056,9 @@
     "notified": false
   },
   "BABY-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789691317.88029,
+    "trigger": 90.2,
     "notified": false
   },
   "UB-USDT-SWAP": {
