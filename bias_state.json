@@ -1086,9 +1086,9 @@
     "notified": true
   },
   "ACH-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789752004.7709062,
+    "trigger": 84.7,
     "notified": false
   },
   "PI-USDT-SWAP": {
