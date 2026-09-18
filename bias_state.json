@@ -729,7 +729,7 @@
     "bias": "LONG",
     "since": 1789662224.8274765,
     "trigger": 76.2,
-    "notified": false
+    "notified": true
   },
   "MOVE-USDT-SWAP": {
     "bias": "SHORT",
