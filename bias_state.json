@@ -450,10 +450,10 @@
     "notified": true
   },
   "MEME-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789483832.9474077,
-    "trigger": 28.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789698922.988757,
+    "trigger": 71.2,
+    "notified": false
   },
   "NOT-USDT-SWAP": {
     "bias": "LONG",
@@ -540,10 +540,10 @@
     "notified": true
   },
   "BICO-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788992493.6214983,
-    "trigger": 25.2,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789698929.4694748,
+    "trigger": 70.8,
+    "notified": false
   },
   "PEOPLE-USDT-SWAP": {
     "bias": "LONG",
