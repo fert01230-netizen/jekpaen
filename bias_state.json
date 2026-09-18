@@ -627,7 +627,7 @@
     "bias": "LONG",
     "since": 1789703313.4623103,
     "trigger": 82.7,
-    "notified": false
+    "notified": true
   },
   "PONS-USDT-SWAP": {
     "bias": "LONG",
