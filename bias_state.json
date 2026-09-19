@@ -594,10 +594,10 @@
     "notified": true
   },
   "SUI-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788993229.332671,
-    "trigger": 29.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1789818363.9531803,
+    "trigger": 77.0,
+    "notified": false
   },
   "SENT-USDT-SWAP": {
     "bias": "LONG",
