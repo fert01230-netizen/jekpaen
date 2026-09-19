@@ -1155,6 +1155,6 @@
     "bias": "LONG",
     "since": 1789749256.0416634,
     "trigger": 80.3,
-    "notified": false
+    "notified": true
   }
 }
