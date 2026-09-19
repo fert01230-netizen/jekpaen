@@ -1089,7 +1089,7 @@
     "bias": "LONG",
     "since": 1789752004.7709062,
     "trigger": 84.7,
-    "notified": false
+    "notified": true
   },
   "PI-USDT-SWAP": {
     "bias": "SHORT",
