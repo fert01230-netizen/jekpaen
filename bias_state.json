@@ -1143,7 +1143,7 @@
     "bias": "LONG",
     "since": 1789739333.273024,
     "trigger": 72.2,
-    "notified": false
+    "notified": true
   },
   "HBAR-USDT-SWAP": {
     "bias": "NEUTRAL",
