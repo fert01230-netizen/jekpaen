@@ -1047,7 +1047,7 @@
     "bias": "LONG",
     "since": 1789838369.0945525,
     "trigger": 81.3,
-    "notified": false
+    "notified": true
   },
   "BAT-USDT-SWAP": {
     "bias": "NEUTRAL",
