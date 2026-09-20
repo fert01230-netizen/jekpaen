@@ -1062,9 +1062,9 @@
     "notified": true
   },
   "UB-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1789910477.4674666,
+    "trigger": 74.9,
     "notified": false
   },
   "IOTA-USDT-SWAP": {
