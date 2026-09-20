@@ -420,10 +420,10 @@
     "notified": true
   },
   "BOME-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789572184.0118668,
-    "trigger": 70.3,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789911971.4938653,
+    "trigger": 29.9,
+    "notified": false
   },
   "DOGE-USDT-SWAP": {
     "bias": "SHORT",
