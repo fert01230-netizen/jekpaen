@@ -750,10 +750,10 @@
     "notified": false
   },
   "GPS-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789309986.7301958,
-    "trigger": 71.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789916469.5940237,
+    "trigger": 29.7,
+    "notified": false
   },
   "ETC-USDT": {
     "bias": "LONG",
