@@ -489,7 +489,7 @@
     "bias": "SHORT",
     "since": 1789873255.2349713,
     "trigger": 29.6,
-    "notified": false
+    "notified": true
   },
   "ONE-USDT-SWAP": {
     "bias": "LONG",
@@ -615,7 +615,7 @@
     "bias": "SHORT",
     "since": 1789894065.8221967,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "ICX-USDT-SWAP": {
     "bias": "SHORT",
@@ -873,7 +873,7 @@
     "bias": "SHORT",
     "since": 1789096997.49297,
     "trigger": 28.4,
-    "notified": false
+    "notified": true
   },
   "LAB-USDT-SWAP": {
     "bias": "LONG",
