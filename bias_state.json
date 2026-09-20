@@ -429,7 +429,7 @@
     "bias": "SHORT",
     "since": 1789894061.41034,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "CP-USDT-SWAP": {
     "bias": "LONG",
@@ -753,7 +753,7 @@
     "bias": "SHORT",
     "since": 1789916469.5940237,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "ETC-USDT": {
     "bias": "LONG",
