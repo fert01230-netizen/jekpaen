@@ -486,10 +486,10 @@
     "notified": true
   },
   "TURBO-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789664466.2893534,
-    "trigger": 71.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1789873255.2349713,
+    "trigger": 29.6,
+    "notified": false
   },
   "ONE-USDT-SWAP": {
     "bias": "LONG",
@@ -975,7 +975,7 @@
     "bias": "LONG",
     "since": 1789834894.092305,
     "trigger": 89.1,
-    "notified": false
+    "notified": true
   },
   "POL-USDT": {
     "bias": "NEUTRAL",
