@@ -1065,7 +1065,7 @@
     "bias": "LONG",
     "since": 1789910477.4674666,
     "trigger": 74.9,
-    "notified": false
+    "notified": true
   },
   "IOTA-USDT-SWAP": {
     "bias": "NEUTRAL",
