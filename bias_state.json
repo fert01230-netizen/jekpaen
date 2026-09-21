@@ -1080,10 +1080,10 @@
     "notified": true
   },
   "XLM-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789503725.5702393,
-    "trigger": 27.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790026432.49549,
+    "trigger": 71.2,
+    "notified": false
   },
   "ACH-USDT-SWAP": {
     "bias": "LONG",
