@@ -855,7 +855,7 @@
     "bias": "LONG",
     "since": 1789997548.2607844,
     "trigger": 73.5,
-    "notified": false
+    "notified": true
   },
   "OL-USDT": {
     "bias": "NEUTRAL",
@@ -1161,7 +1161,7 @@
     "bias": "LONG",
     "since": 1789997548.527673,
     "trigger": 71.1,
-    "notified": false
+    "notified": true
   },
   "LUNA-USDT-SWAP": {
     "bias": "NEUTRAL",
