@@ -489,7 +489,7 @@
     "bias": "LONG",
     "since": 1790002869.569742,
     "trigger": 72.6,
-    "notified": false
+    "notified": true
   },
   "ONE-USDT-SWAP": {
     "bias": "LONG",
