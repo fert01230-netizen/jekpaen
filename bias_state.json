@@ -612,10 +612,10 @@
     "notified": true
   },
   "KAT-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789894065.8221967,
-    "trigger": 29.7,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790066162.0959167,
+    "trigger": 72.1,
+    "notified": false
   },
   "ICX-USDT-SWAP": {
     "bias": "SHORT",
