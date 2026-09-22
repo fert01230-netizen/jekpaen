@@ -1083,7 +1083,7 @@
     "bias": "LONG",
     "since": 1790026432.49549,
     "trigger": 71.2,
-    "notified": false
+    "notified": true
   },
   "ACH-USDT-SWAP": {
     "bias": "LONG",
