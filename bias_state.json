@@ -615,7 +615,7 @@
     "bias": "LONG",
     "since": 1790066162.0959167,
     "trigger": 72.1,
-    "notified": false
+    "notified": true
   },
   "ICX-USDT-SWAP": {
     "bias": "SHORT",
@@ -1179,6 +1179,6 @@
     "bias": "LONG",
     "since": 1790066997.503552,
     "trigger": 73.3,
-    "notified": false
+    "notified": true
   }
 }
