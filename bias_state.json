@@ -1174,5 +1174,11 @@
     "since": 1789999277.0419025,
     "trigger": 73.3,
     "notified": true
+  },
+  "WIF-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
