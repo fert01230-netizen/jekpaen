@@ -429,7 +429,7 @@
     "bias": "LONG",
     "since": 1789997543.5874765,
     "trigger": 78.0,
-    "notified": false
+    "notified": true
   },
   "CP-USDT-SWAP": {
     "bias": "LONG",
