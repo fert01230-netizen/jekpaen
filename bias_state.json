@@ -1192,5 +1192,11 @@
     "since": 1790169861.455161,
     "trigger": 82.7,
     "notified": true
+  },
+  "PLUME-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
