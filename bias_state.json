@@ -1180,5 +1180,11 @@
     "since": 1790066997.503552,
     "trigger": 73.3,
     "notified": true
+  },
+  "PYTH-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
