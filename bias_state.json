@@ -432,10 +432,10 @@
     "notified": false
   },
   "CP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789778458.4248307,
-    "trigger": 75.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1790177751.7843697,
+    "trigger": 29.8,
+    "notified": false
   },
   "HMSTR-USDT-SWAP": {
     "bias": "SHORT",
