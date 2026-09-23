@@ -666,10 +666,10 @@
     "notified": true
   },
   "SAHARA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790141673.0169883,
-    "trigger": 74.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1790202793.3344367,
+    "trigger": 29.7,
+    "notified": false
   },
   "CHZ-USDT-SWAP": {
     "bias": "LONG",
