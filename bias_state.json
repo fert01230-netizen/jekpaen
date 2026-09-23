@@ -582,10 +582,10 @@
     "notified": false
   },
   "XRP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789739328.031079,
-    "trigger": 70.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1790195647.3607934,
+    "trigger": 29.7,
+    "notified": false
   },
   "CHIP-USDT-SWAP": {
     "bias": "LONG",
