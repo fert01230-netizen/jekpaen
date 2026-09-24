@@ -363,7 +363,7 @@
     "bias": "SHORT",
     "since": 1790173418.103794,
     "trigger": 25.8,
-    "notified": false
+    "notified": true
   },
   "PEPE-USDT-SWAP": {
     "bias": "SHORT",
@@ -375,7 +375,7 @@
     "bias": "SHORT",
     "since": 1790173418.8585656,
     "trigger": 24.6,
-    "notified": false
+    "notified": true
   },
   "BONK-USDT-SWAP": {
     "bias": "LONG",
@@ -441,7 +441,7 @@
     "bias": "SHORT",
     "since": 1790173420.338416,
     "trigger": 29.9,
-    "notified": false
+    "notified": true
   },
   "PENGU-USDT-SWAP": {
     "bias": "LONG",
@@ -465,7 +465,7 @@
     "bias": "SHORT",
     "since": 1790173422.5680559,
     "trigger": 26.0,
-    "notified": false
+    "notified": true
   },
   "MEW-USDT-SWAP": {
     "bias": "LONG",
@@ -579,7 +579,7 @@
     "bias": "SHORT",
     "since": 1790173426.5023794,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "XRP-USDT-SWAP": {
     "bias": "SHORT",
