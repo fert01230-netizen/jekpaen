@@ -369,7 +369,7 @@
     "bias": "SHORT",
     "since": 1790173418.3632832,
     "trigger": 29.1,
-    "notified": false
+    "notified": true
   },
   "SHIB-USDT-SWAP": {
     "bias": "SHORT",
