@@ -549,7 +549,7 @@
     "bias": "LONG",
     "since": 1790260606.9055827,
     "trigger": 71.1,
-    "notified": false
+    "notified": true
   },
   "ANIME-USDT-SWAP": {
     "bias": "SHORT",
@@ -1203,6 +1203,6 @@
     "bias": "LONG",
     "since": 1790256272.6015296,
     "trigger": 71.1,
-    "notified": false
+    "notified": true
   }
 }
