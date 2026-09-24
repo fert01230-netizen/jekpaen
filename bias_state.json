@@ -705,7 +705,7 @@
     "bias": "SHORT",
     "since": 1790173431.7061412,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "ZAMA-USDT-SWAP": {
     "bias": "LONG",
