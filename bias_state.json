@@ -549,7 +549,7 @@
     "bias": "SHORT",
     "since": 1790173423.304992,
     "trigger": 27.3,
-    "notified": false
+    "notified": true
   },
   "ANIME-USDT-SWAP": {
     "bias": "SHORT",
@@ -609,7 +609,7 @@
     "bias": "SHORT",
     "since": 1790200867.024139,
     "trigger": 30.0,
-    "notified": false
+    "notified": true
   },
   "KAT-USDT-SWAP": {
     "bias": "LONG",
