@@ -525,7 +525,7 @@
     "bias": "SHORT",
     "since": 1790173426.0135133,
     "trigger": 27.0,
-    "notified": false
+    "notified": true
   },
   "MON-USDT-SWAP": {
     "bias": "SHORT",
