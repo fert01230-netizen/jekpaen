@@ -1194,9 +1194,9 @@
     "notified": true
   },
   "PLUME-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1790240507.338284,
+    "trigger": 71.0,
     "notified": false
   }
 }
