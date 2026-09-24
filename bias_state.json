@@ -990,10 +990,10 @@
     "notified": false
   },
   "MUBARAK-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789195127.5321574,
-    "trigger": 76.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1790270516.509572,
+    "trigger": 29.9,
+    "notified": false
   },
   "MINA-USDT": {
     "bias": "NEUTRAL",
