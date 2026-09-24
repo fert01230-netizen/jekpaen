@@ -561,7 +561,7 @@
     "bias": "SHORT",
     "since": 1790173425.2816415,
     "trigger": 25.5,
-    "notified": false
+    "notified": true
   },
   "LINEA-USDT-SWAP": {
     "bias": "LONG",
