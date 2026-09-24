@@ -459,7 +459,7 @@
     "bias": "SHORT",
     "since": 1790173422.815857,
     "trigger": 27.8,
-    "notified": false
+    "notified": true
   },
   "GALA-USDT-SWAP": {
     "bias": "SHORT",
@@ -507,7 +507,7 @@
     "bias": "SHORT",
     "since": 1790173428.9781368,
     "trigger": 26.7,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
@@ -531,7 +531,7 @@
     "bias": "SHORT",
     "since": 1790173430.945001,
     "trigger": 27.1,
-    "notified": false
+    "notified": true
   },
   "ENA-USDT-SWAP": {
     "bias": "LONG",
@@ -1198,5 +1198,11 @@
     "since": 1790240507.338284,
     "trigger": 71.0,
     "notified": true
+  },
+  "H-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790256272.6015296,
+    "trigger": 71.1,
+    "notified": false
   }
 }
