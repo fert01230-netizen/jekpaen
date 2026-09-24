@@ -546,10 +546,10 @@
     "notified": true
   },
   "PEOPLE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173423.304992,
-    "trigger": 27.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790260606.9055827,
+    "trigger": 71.1,
+    "notified": false
   },
   "ANIME-USDT-SWAP": {
     "bias": "SHORT",
