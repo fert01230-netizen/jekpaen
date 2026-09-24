@@ -543,7 +543,7 @@
     "bias": "SHORT",
     "since": 1790175064.3086553,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "PEOPLE-USDT-SWAP": {
     "bias": "SHORT",
