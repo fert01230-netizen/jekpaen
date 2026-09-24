@@ -387,7 +387,7 @@
     "bias": "SHORT",
     "since": 1790058449.5405781,
     "trigger": 13.8,
-    "notified": false
+    "notified": true
   },
   "IOST-USDT-SWAP": {
     "bias": "LONG",
