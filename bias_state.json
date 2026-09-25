@@ -807,7 +807,7 @@
     "bias": "LONG",
     "since": 1790368516.4187522,
     "trigger": 70.3,
-    "notified": false
+    "notified": true
   },
   "KAT-USDT": {
     "bias": "LONG",
