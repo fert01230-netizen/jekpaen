@@ -426,10 +426,10 @@
     "notified": true
   },
   "DOGE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173420.838445,
-    "trigger": 27.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790341398.3085034,
+    "trigger": 70.4,
+    "notified": false
   },
   "CP-USDT-SWAP": {
     "bias": "SHORT",
