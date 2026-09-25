@@ -531,7 +531,7 @@
     "bias": "LONG",
     "since": 1790323268.9063566,
     "trigger": 70.6,
-    "notified": false
+    "notified": true
   },
   "ENA-USDT-SWAP": {
     "bias": "LONG",
