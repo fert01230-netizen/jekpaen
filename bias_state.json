@@ -429,7 +429,7 @@
     "bias": "LONG",
     "since": 1790341398.3085034,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   },
   "CP-USDT-SWAP": {
     "bias": "SHORT",
@@ -831,7 +831,7 @@
     "bias": "LONG",
     "since": 1790336976.6190233,
     "trigger": 71.3,
-    "notified": false
+    "notified": true
   },
   "BIGTIME-USDT-SWAP": {
     "bias": "LONG",
@@ -1204,5 +1204,11 @@
     "since": 1790256272.6015296,
     "trigger": 71.1,
     "notified": true
+  },
+  "BIO-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790342674.7864764,
+    "trigger": 81.4,
+    "notified": false
   }
 }
