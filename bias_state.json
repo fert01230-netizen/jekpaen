@@ -645,7 +645,7 @@
     "bias": "LONG",
     "since": 1790332549.942681,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "ROBO-USDT-SWAP": {
     "bias": "LONG",
