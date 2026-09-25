@@ -804,10 +804,10 @@
     "notified": true
   },
   "F-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173425.5316854,
-    "trigger": 28.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790368516.4187522,
+    "trigger": 70.3,
+    "notified": false
   },
   "KAT-USDT": {
     "bias": "LONG",
