@@ -399,7 +399,7 @@
     "bias": "LONG",
     "since": 1790333371.1604722,
     "trigger": 71.1,
-    "notified": false
+    "notified": true
   },
   "FLOKI-USDT-SWAP": {
     "bias": "SHORT",
@@ -465,7 +465,7 @@
     "bias": "LONG",
     "since": 1790335357.69578,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "MEW-USDT-SWAP": {
     "bias": "LONG",
@@ -579,7 +579,7 @@
     "bias": "LONG",
     "since": 1790335361.2387922,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   },
   "XRP-USDT-SWAP": {
     "bias": "LONG",
@@ -705,7 +705,7 @@
     "bias": "LONG",
     "since": 1790340864.4280837,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "ZAMA-USDT-SWAP": {
     "bias": "LONG",
