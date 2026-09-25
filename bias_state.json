@@ -909,7 +909,7 @@
     "bias": "LONG",
     "since": 1790335367.3534477,
     "trigger": 72.3,
-    "notified": false
+    "notified": true
   },
   "XAAPL-USDT": {
     "bias": "LONG",
