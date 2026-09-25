@@ -528,10 +528,10 @@
     "notified": true
   },
   "MON-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173430.945001,
-    "trigger": 27.1,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790323268.9063566,
+    "trigger": 70.6,
+    "notified": false
   },
   "ENA-USDT-SWAP": {
     "bias": "LONG",
