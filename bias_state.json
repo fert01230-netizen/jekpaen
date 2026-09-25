@@ -993,7 +993,7 @@
     "bias": "LONG",
     "since": 1790353462.1946177,
     "trigger": 72.5,
-    "notified": false
+    "notified": true
   },
   "MINA-USDT": {
     "bias": "NEUTRAL",
