@@ -411,7 +411,7 @@
     "bias": "LONG",
     "since": 1790382489.4569879,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "DOOD-USDT-SWAP": {
     "bias": "LONG",
@@ -432,10 +432,10 @@
     "notified": true
   },
   "CP-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790177751.7843697,
-    "trigger": 29.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790383992.613396,
+    "trigger": 71.0,
+    "notified": false
   },
   "HMSTR-USDT-SWAP": {
     "bias": "SHORT",
