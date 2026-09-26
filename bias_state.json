@@ -384,10 +384,10 @@
     "notified": true
   },
   "SOPH-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790058449.5405781,
-    "trigger": 13.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790420487.5869634,
+    "trigger": 71.8,
+    "notified": false
   },
   "IOST-USDT-SWAP": {
     "bias": "LONG",
@@ -456,10 +456,10 @@
     "notified": true
   },
   "NOT-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173422.815857,
-    "trigger": 27.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790420480.9703069,
+    "trigger": 71.4,
+    "notified": false
   },
   "GALA-USDT-SWAP": {
     "bias": "LONG",
