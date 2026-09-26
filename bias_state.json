@@ -1216,5 +1216,11 @@
     "since": 1790353467.9043155,
     "trigger": 86.1,
     "notified": true
+  },
+  "2Z-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790406085.4807851,
+    "trigger": 83.5,
+    "notified": false
   }
 }
