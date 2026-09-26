@@ -435,7 +435,7 @@
     "bias": "LONG",
     "since": 1790383992.613396,
     "trigger": 71.0,
-    "notified": false
+    "notified": true
   },
   "HMSTR-USDT-SWAP": {
     "bias": "SHORT",
