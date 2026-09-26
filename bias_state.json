@@ -1137,7 +1137,7 @@
     "bias": "LONG",
     "since": 1790416047.0908782,
     "trigger": 71.5,
-    "notified": false
+    "notified": true
   },
   "CORE-USDT-SWAP": {
     "bias": "LONG",
