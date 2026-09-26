@@ -1134,9 +1134,9 @@
     "notified": true
   },
   "RESOLV-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1790416047.0908782,
+    "trigger": 71.5,
     "notified": false
   },
   "CORE-USDT-SWAP": {
