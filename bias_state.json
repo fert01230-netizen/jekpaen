@@ -408,10 +408,10 @@
     "notified": true
   },
   "NEIRO-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790175053.5709994,
-    "trigger": 29.7,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790382489.4569879,
+    "trigger": 70.9,
+    "notified": false
   },
   "DOOD-USDT-SWAP": {
     "bias": "LONG",
