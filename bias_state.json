@@ -360,10 +360,10 @@
     "notified": true
   },
   "SATS-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173418.103794,
-    "trigger": 25.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790439750.3525958,
+    "trigger": 83.2,
+    "notified": false
   },
   "PEPE-USDT-SWAP": {
     "bias": "SHORT",
