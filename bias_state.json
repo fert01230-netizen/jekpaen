@@ -405,7 +405,7 @@
     "bias": "LONG",
     "since": 1790440497.6532962,
     "trigger": 72.7,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "LONG",
