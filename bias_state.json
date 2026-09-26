@@ -1222,5 +1222,11 @@
     "since": 1790406085.4807851,
     "trigger": 83.5,
     "notified": false
+  },
+  "JELLYJELLY-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
