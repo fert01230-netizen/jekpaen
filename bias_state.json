@@ -708,10 +708,10 @@
     "notified": true
   },
   "ZAMA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789719840.4253268,
-    "trigger": 79.7,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1790518893.3580132,
+    "trigger": 28.4,
+    "notified": false
   },
   "CNPY-USDT-SWAP": {
     "bias": "LONG",
