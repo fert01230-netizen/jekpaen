@@ -1233,7 +1233,7 @@
     "bias": "LONG",
     "since": 1790482982.666098,
     "trigger": 92.5,
-    "notified": false
+    "notified": true
   },
   "BASED-USDT-SWAP": {
     "bias": "NEUTRAL",
