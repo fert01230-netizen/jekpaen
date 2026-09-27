@@ -1234,5 +1234,11 @@
     "since": 1790482982.666098,
     "trigger": 92.5,
     "notified": false
+  },
+  "BASED-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
