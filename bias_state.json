@@ -1264,5 +1264,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "GRT-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790540521.426332,
+    "trigger": 83.7,
+    "notified": false
   }
 }
