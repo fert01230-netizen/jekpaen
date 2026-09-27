@@ -1258,5 +1258,11 @@
     "since": 1790529641.3996856,
     "trigger": 78.1,
     "notified": false
+  },
+  "ARX-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
