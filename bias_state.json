@@ -1228,5 +1228,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "SOON-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790482982.666098,
+    "trigger": 92.5,
+    "notified": false
   }
 }
