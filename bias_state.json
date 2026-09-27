@@ -1240,5 +1240,11 @@
     "since": 0,
     "trigger": null,
     "notified": false
+  },
+  "MAGIC-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790520470.655261,
+    "trigger": 86.6,
+    "notified": false
   }
 }
