@@ -1185,7 +1185,7 @@
     "bias": "LONG",
     "since": 1790506065.688873,
     "trigger": 70.3,
-    "notified": false
+    "notified": true
   },
   "ALLO-USDT-SWAP": {
     "bias": "LONG",
