@@ -1248,9 +1248,15 @@
     "notified": true
   },
   "GRASS-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1790529643.734995,
+    "trigger": 71.7,
+    "notified": false
+  },
+  "AZTEC-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790529641.3996856,
+    "trigger": 78.1,
     "notified": false
   }
 }
