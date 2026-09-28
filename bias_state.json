@@ -381,7 +381,7 @@
     "bias": "SHORT",
     "since": 1790580372.0973094,
     "trigger": 28.2,
-    "notified": false
+    "notified": true
   },
   "SOPH-USDT-SWAP": {
     "bias": "SHORT",
@@ -705,7 +705,7 @@
     "bias": "SHORT",
     "since": 1790588420.0070913,
     "trigger": 29.1,
-    "notified": false
+    "notified": true
   },
   "ZAMA-USDT-SWAP": {
     "bias": "SHORT",
