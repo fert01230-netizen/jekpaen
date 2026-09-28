@@ -1269,7 +1269,7 @@
     "bias": "LONG",
     "since": 1790540521.426332,
     "trigger": 83.7,
-    "notified": false
+    "notified": true
   },
   "IRYS-USDT-SWAP": {
     "bias": "LONG",
