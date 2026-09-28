@@ -1146,10 +1146,10 @@
     "notified": true
   },
   "HBAR-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173429.9485688,
-    "trigger": 27.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790584819.7017565,
+    "trigger": 78.7,
+    "notified": false
   },
   "S-USDT-SWAP": {
     "bias": "LONG",
