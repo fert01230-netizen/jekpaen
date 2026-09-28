@@ -711,7 +711,7 @@
     "bias": "SHORT",
     "since": 1790518893.3580132,
     "trigger": 28.4,
-    "notified": false
+    "notified": true
   },
   "CNPY-USDT-SWAP": {
     "bias": "LONG",
