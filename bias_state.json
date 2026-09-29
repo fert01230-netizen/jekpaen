@@ -477,7 +477,7 @@
     "bias": "SHORT",
     "since": 1790580378.0322182,
     "trigger": 28.4,
-    "notified": false
+    "notified": true
   },
   "USELESS-USDT-SWAP": {
     "bias": "LONG",
