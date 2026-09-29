@@ -1300,5 +1300,11 @@
     "since": 1790681024.3893588,
     "trigger": 77.3,
     "notified": false
+  },
+  "CELO-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
