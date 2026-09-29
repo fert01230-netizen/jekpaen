@@ -1282,5 +1282,11 @@
     "since": 1790605662.1150506,
     "trigger": 70.9,
     "notified": true
+  },
+  "XDP-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
