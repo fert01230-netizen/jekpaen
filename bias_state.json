@@ -1251,7 +1251,7 @@
     "bias": "LONG",
     "since": 1790529643.734995,
     "trigger": 71.7,
-    "notified": false
+    "notified": true
   },
   "AZTEC-USDT-SWAP": {
     "bias": "LONG",
