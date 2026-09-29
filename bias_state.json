@@ -657,7 +657,7 @@
     "bias": "SHORT",
     "since": 1790527767.3932354,
     "trigger": 29.8,
-    "notified": false
+    "notified": true
   },
   "OP-USDT-SWAP": {
     "bias": "LONG",
