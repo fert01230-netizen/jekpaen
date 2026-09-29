@@ -1293,7 +1293,7 @@
     "bias": "LONG",
     "since": 1790666756.774564,
     "trigger": 74.5,
-    "notified": false
+    "notified": true
   },
   "NIGHT-USDT-SWAP": {
     "bias": "LONG",
@@ -1311,6 +1311,6 @@
     "bias": "LONG",
     "since": 1790687198.4825783,
     "trigger": 76.2,
-    "notified": false
+    "notified": true
   }
 }
