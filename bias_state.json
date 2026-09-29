@@ -498,10 +498,10 @@
     "notified": true
   },
   "RLS-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790048105.4484928,
-    "trigger": 70.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1790702626.31388,
+    "trigger": 23.5,
+    "notified": false
   },
   "WLD-USDT-SWAP": {
     "bias": "SHORT",
