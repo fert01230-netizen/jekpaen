@@ -663,7 +663,7 @@
     "bias": "SHORT",
     "since": 1790660193.9945536,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "SAHARA-USDT-SWAP": {
     "bias": "SHORT",
