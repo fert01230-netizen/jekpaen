@@ -501,7 +501,7 @@
     "bias": "SHORT",
     "since": 1790702626.31388,
     "trigger": 23.5,
-    "notified": false
+    "notified": true
   },
   "WLD-USDT-SWAP": {
     "bias": "LONG",
