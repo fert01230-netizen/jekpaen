@@ -507,7 +507,7 @@
     "bias": "LONG",
     "since": 1790769768.7641008,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "LONG",
@@ -615,7 +615,7 @@
     "bias": "LONG",
     "since": 1790773105.5454538,
     "trigger": 70.0,
-    "notified": false
+    "notified": true
   },
   "ICX-USDT-SWAP": {
     "bias": "SHORT",
