@@ -468,10 +468,10 @@
     "notified": true
   },
   "MEW-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790580375.8408623,
-    "trigger": 28.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790726468.3306174,
+    "trigger": 70.4,
+    "notified": false
   },
   "ARB-USDT-SWAP": {
     "bias": "SHORT",
