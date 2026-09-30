@@ -870,10 +870,10 @@
     "notified": true
   },
   "PIPPIN-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1789096997.49297,
-    "trigger": 28.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790758945.5120647,
+    "trigger": 75.9,
+    "notified": false
   },
   "LAB-USDT-SWAP": {
     "bias": "LONG",
