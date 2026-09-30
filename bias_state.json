@@ -651,7 +651,7 @@
     "bias": "SHORT",
     "since": 1790522507.995146,
     "trigger": 27.8,
-    "notified": false
+    "notified": true
   },
   "BILL-USDT-SWAP": {
     "bias": "SHORT",
