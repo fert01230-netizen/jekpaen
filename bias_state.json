@@ -471,7 +471,7 @@
     "bias": "LONG",
     "since": 1790726468.3306174,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   },
   "ARB-USDT-SWAP": {
     "bias": "SHORT",
