@@ -1149,7 +1149,7 @@
     "bias": "SHORT",
     "since": 1790704282.5950205,
     "trigger": 29.6,
-    "notified": false
+    "notified": true
   },
   "S-USDT-SWAP": {
     "bias": "LONG",
