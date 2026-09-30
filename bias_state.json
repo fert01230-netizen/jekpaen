@@ -1101,7 +1101,7 @@
     "bias": "LONG",
     "since": 1790758436.1677737,
     "trigger": 71.6,
-    "notified": false
+    "notified": true
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
