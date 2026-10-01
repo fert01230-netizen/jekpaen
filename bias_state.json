@@ -1312,5 +1312,11 @@
     "since": 1790687198.4825783,
     "trigger": 76.2,
     "notified": true
+  },
+  "CT-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
   }
 }
