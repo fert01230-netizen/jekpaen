@@ -735,7 +735,7 @@
     "bias": "LONG",
     "since": 1790823126.7247787,
     "trigger": 71.2,
-    "notified": false
+    "notified": true
   },
   "XMU-USDT": {
     "bias": "SHORT",
