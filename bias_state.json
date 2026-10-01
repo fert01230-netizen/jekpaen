@@ -693,7 +693,7 @@
     "bias": "LONG",
     "since": 1790860111.7525356,
     "trigger": 70.6,
-    "notified": false
+    "notified": true
   },
   "CAP-USDT-SWAP": {
     "bias": "LONG",
@@ -1320,9 +1320,9 @@
     "notified": false
   },
   "OPN-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1790865764.5769022,
+    "trigger": 75.5,
     "notified": false
   }
 }
