@@ -1287,7 +1287,7 @@
     "bias": "SHORT",
     "since": 1790814801.3784926,
     "trigger": 26.2,
-    "notified": false
+    "notified": true
   },
   "CRV-USDT-SWAP": {
     "bias": "LONG",
