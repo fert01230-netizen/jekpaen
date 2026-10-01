@@ -507,7 +507,7 @@
     "bias": "SHORT",
     "since": 1790869194.5698805,
     "trigger": 29.9,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "LONG",
