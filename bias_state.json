@@ -384,10 +384,10 @@
     "notified": true
   },
   "SOPH-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790523293.1228566,
-    "trigger": 29.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1790883400.767685,
+    "trigger": 71.6,
+    "notified": false
   },
   "IOST-USDT-SWAP": {
     "bias": "SHORT",
