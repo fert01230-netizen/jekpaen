@@ -690,9 +690,9 @@
     "notified": true
   },
   "MEGA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1790860111.7525356,
+    "trigger": 70.6,
     "notified": false
   },
   "CAP-USDT-SWAP": {
