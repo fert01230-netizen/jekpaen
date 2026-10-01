@@ -1314,9 +1314,9 @@
     "notified": true
   },
   "CT-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1790850387.421287,
+    "trigger": 76.7,
     "notified": false
   }
 }
