@@ -1330,5 +1330,11 @@
     "since": 1790924680.4688377,
     "trigger": 90.6,
     "notified": false
+  },
+  "SAND-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790926004.4797618,
+    "trigger": 89.9,
+    "notified": false
   }
 }
