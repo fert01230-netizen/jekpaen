@@ -1324,5 +1324,11 @@
     "since": 1790865764.5769022,
     "trigger": 75.5,
     "notified": true
+  },
+  "TRUTH-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1790924680.4688377,
+    "trigger": 90.6,
+    "notified": false
   }
 }
