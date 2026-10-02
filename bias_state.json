@@ -441,7 +441,7 @@
     "bias": "LONG",
     "since": 1790952621.4070601,
     "trigger": 77.9,
-    "notified": false
+    "notified": true
   },
   "PENGU-USDT-SWAP": {
     "bias": "SHORT",
@@ -534,10 +534,10 @@
     "notified": true
   },
   "ENA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789135294.5574968,
-    "trigger": 70.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1790982849.3547764,
+    "trigger": 24.7,
+    "notified": false
   },
   "BICO-USDT-SWAP": {
     "bias": "SHORT",
