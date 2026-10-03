@@ -381,7 +381,7 @@
     "bias": "SHORT",
     "since": 1790969720.4964519,
     "trigger": 26.9,
-    "notified": false
+    "notified": true
   },
   "SOPH-USDT-SWAP": {
     "bias": "LONG",
@@ -417,7 +417,7 @@
     "bias": "SHORT",
     "since": 1790969730.5540133,
     "trigger": 25.4,
-    "notified": false
+    "notified": true
   },
   "BOME-USDT-SWAP": {
     "bias": "LONG",
@@ -447,7 +447,7 @@
     "bias": "SHORT",
     "since": 1790969722.4808023,
     "trigger": 26.6,
-    "notified": false
+    "notified": true
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
@@ -567,7 +567,7 @@
     "bias": "SHORT",
     "since": 1790969726.8338273,
     "trigger": 29.9,
-    "notified": false
+    "notified": true
   },
   "RSR-USDT-SWAP": {
     "bias": "LONG",
@@ -615,7 +615,7 @@
     "bias": "SHORT",
     "since": 1790969730.014171,
     "trigger": 24.3,
-    "notified": false
+    "notified": true
   },
   "ICX-USDT-SWAP": {
     "bias": "SHORT",
@@ -708,10 +708,10 @@
     "notified": true
   },
   "ZAMA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790518893.3580132,
-    "trigger": 28.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791045724.3035886,
+    "trigger": 76.9,
+    "notified": false
   },
   "CNPY-USDT-SWAP": {
     "bias": "LONG",
