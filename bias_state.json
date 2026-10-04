@@ -1053,7 +1053,7 @@
     "bias": "LONG",
     "since": 1791117314.813846,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   },
   "BABY-USDT-SWAP": {
     "bias": "LONG",
