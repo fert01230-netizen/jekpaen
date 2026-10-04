@@ -711,7 +711,7 @@
     "bias": "LONG",
     "since": 1791045724.3035886,
     "trigger": 76.9,
-    "notified": false
+    "notified": true
   },
   "CNPY-USDT-SWAP": {
     "bias": "LONG",
@@ -1050,9 +1050,9 @@
     "notified": true
   },
   "BAT-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1791117314.813846,
+    "trigger": 70.4,
     "notified": false
   },
   "BABY-USDT-SWAP": {
@@ -1068,9 +1068,9 @@
     "notified": true
   },
   "IOTA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1791117313.8546429,
+    "trigger": 77.8,
     "notified": false
   },
   "LA-USDT-SWAP": {
@@ -1221,7 +1221,7 @@
     "bias": "SHORT",
     "since": 1790969728.8861883,
     "trigger": 17.0,
-    "notified": false
+    "notified": true
   },
   "JELLYJELLY-USDT-SWAP": {
     "bias": "NEUTRAL",
