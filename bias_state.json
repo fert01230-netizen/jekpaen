@@ -633,7 +633,7 @@
     "bias": "SHORT",
     "since": 1791055441.8724768,
     "trigger": 24.8,
-    "notified": false
+    "notified": true
   },
   "ATH-USDT-SWAP": {
     "bias": "LONG",
