@@ -372,10 +372,10 @@
     "notified": true
   },
   "SHIB-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173418.8585656,
-    "trigger": 24.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791144484.5525496,
+    "trigger": 74.3,
+    "notified": false
   },
   "BONK-USDT-SWAP": {
     "bias": "SHORT",
@@ -1071,7 +1071,7 @@
     "bias": "LONG",
     "since": 1791117313.8546429,
     "trigger": 77.8,
-    "notified": false
+    "notified": true
   },
   "LA-USDT-SWAP": {
     "bias": "LONG",
@@ -1296,10 +1296,10 @@
     "notified": true
   },
   "NIGHT-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790681024.3893588,
-    "trigger": 77.3,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791144489.1597202,
+    "trigger": 25.6,
+    "notified": false
   },
   "CELO-USDT-SWAP": {
     "bias": "LONG",
