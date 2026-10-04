@@ -402,10 +402,10 @@
     "notified": true
   },
   "FLOKI-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790580372.7339888,
-    "trigger": 28.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791154997.186963,
+    "trigger": 82.9,
+    "notified": false
   },
   "NEIRO-USDT-SWAP": {
     "bias": "LONG",
@@ -444,10 +444,10 @@
     "notified": true
   },
   "PENGU-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790969722.4808023,
-    "trigger": 26.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791154999.4572437,
+    "trigger": 70.1,
+    "notified": false
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
@@ -576,10 +576,10 @@
     "notified": true
   },
   "ADA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790573793.7474551,
-    "trigger": 29.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791155002.2697144,
+    "trigger": 85.1,
+    "notified": false
   },
   "XRP-USDT-SWAP": {
     "bias": "LONG",
