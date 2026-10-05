@@ -375,7 +375,7 @@
     "bias": "LONG",
     "since": 1791144484.5525496,
     "trigger": 74.3,
-    "notified": false
+    "notified": true
   },
   "BONK-USDT-SWAP": {
     "bias": "LONG",
@@ -447,7 +447,7 @@
     "bias": "LONG",
     "since": 1791154999.4572437,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
@@ -798,10 +798,10 @@
     "notified": true
   },
   "AEON-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1788992497.3542898,
-    "trigger": 22.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791240525.8796418,
+    "trigger": 76.9,
+    "notified": false
   },
   "F-USDT-SWAP": {
     "bias": "SHORT",
@@ -1083,7 +1083,7 @@
     "bias": "SHORT",
     "since": 1791217688.884715,
     "trigger": 26.5,
-    "notified": false
+    "notified": true
   },
   "ACH-USDT-SWAP": {
     "bias": "LONG",
