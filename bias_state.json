@@ -801,7 +801,7 @@
     "bias": "LONG",
     "since": 1791240525.8796418,
     "trigger": 76.9,
-    "notified": false
+    "notified": true
   },
   "F-USDT-SWAP": {
     "bias": "SHORT",
@@ -1002,9 +1002,9 @@
     "notified": false
   },
   "MINA-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1791302593.1161487,
+    "trigger": 11.7,
     "notified": false
   },
   "CHZ-USDT": {
@@ -1356,6 +1356,12 @@
     "notified": false
   },
   "PARTI-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "API3-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
