@@ -366,16 +366,16 @@
     "notified": true
   },
   "PEPE-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790915887.041706,
-    "trigger": 70.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352686.1715353,
+    "trigger": 27.5,
+    "notified": false
   },
   "SHIB-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791144484.5525496,
-    "trigger": 74.3,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352686.3936977,
+    "trigger": 24.1,
+    "notified": false
   },
   "BONK-USDT-SWAP": {
     "bias": "SHORT",
@@ -408,10 +408,10 @@
     "notified": true
   },
   "NEIRO-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790688537.5779133,
-    "trigger": 71.3,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352687.3292303,
+    "trigger": 24.7,
+    "notified": false
   },
   "DOOD-USDT-SWAP": {
     "bias": "SHORT",
@@ -426,22 +426,22 @@
     "notified": true
   },
   "DOGE-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790773100.4873035,
-    "trigger": 70.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352688.0094404,
+    "trigger": 28.3,
+    "notified": false
   },
   "CP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790383992.613396,
-    "trigger": 71.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352692.6681426,
+    "trigger": 23.4,
+    "notified": false
   },
   "HMSTR-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790952621.4070601,
-    "trigger": 77.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352688.2542896,
+    "trigger": 28.7,
+    "notified": false
   },
   "PENGU-USDT-SWAP": {
     "bias": "LONG",
@@ -456,10 +456,10 @@
     "notified": true
   },
   "NOT-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790420480.9703069,
-    "trigger": 71.4,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352690.2285833,
+    "trigger": 25.5,
+    "notified": false
   },
   "GALA-USDT-SWAP": {
     "bias": "LONG",
@@ -468,10 +468,10 @@
     "notified": true
   },
   "MEW-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790726468.3306174,
-    "trigger": 70.4,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352689.7750685,
+    "trigger": 25.0,
+    "notified": false
   },
   "ARB-USDT-SWAP": {
     "bias": "SHORT",
@@ -486,10 +486,10 @@
     "notified": true
   },
   "TURBO-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790002869.569742,
-    "trigger": 72.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352691.147595,
+    "trigger": 26.5,
+    "notified": false
   },
   "ONE-USDT-SWAP": {
     "bias": "SHORT",
@@ -504,10 +504,10 @@
     "notified": true
   },
   "WLD-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790952627.3564355,
-    "trigger": 70.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352696.8051789,
+    "trigger": 27.0,
+    "notified": false
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
@@ -636,10 +636,10 @@
     "notified": true
   },
   "ATH-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790952630.5502,
-    "trigger": 80.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352698.7524009,
+    "trigger": 28.2,
+    "notified": false
   },
   "STRK-USDT-SWAP": {
     "bias": "LONG",
@@ -672,10 +672,10 @@
     "notified": true
   },
   "CHZ-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789664473.6278584,
-    "trigger": 73.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352699.8877726,
+    "trigger": 25.5,
+    "notified": false
   },
   "ACT-USDT-SWAP": {
     "bias": "LONG",
@@ -846,10 +846,10 @@
     "notified": true
   },
   "SPACE-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789605791.1428893,
-    "trigger": 70.1,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352695.6541483,
+    "trigger": 18.4,
+    "notified": false
   },
   "SEI-USDT-SWAP": {
     "bias": "LONG",
@@ -1140,10 +1140,10 @@
     "notified": true
   },
   "CORE-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789739333.273024,
-    "trigger": 72.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791352697.5836384,
+    "trigger": 22.3,
+    "notified": false
   },
   "HBAR-USDT-SWAP": {
     "bias": "SHORT",
