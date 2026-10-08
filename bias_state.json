@@ -534,10 +534,10 @@
     "notified": false
   },
   "ENA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791186545.3432279,
-    "trigger": 74.7,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791478515.6532762,
+    "trigger": 21.8,
+    "notified": false
   },
   "BICO-USDT-SWAP": {
     "bias": "SHORT",
@@ -576,10 +576,10 @@
     "notified": true
   },
   "ADA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791155002.2697144,
-    "trigger": 85.1,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791478512.966276,
+    "trigger": 15.8,
+    "notified": false
   },
   "XRP-USDT-SWAP": {
     "bias": "SHORT",
@@ -594,10 +594,10 @@
     "notified": true
   },
   "SUI-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789818363.9531803,
-    "trigger": 77.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791478517.9068274,
+    "trigger": 20.8,
+    "notified": false
   },
   "SENT-USDT-SWAP": {
     "bias": "LONG",
@@ -645,7 +645,7 @@
     "bias": "LONG",
     "since": 1791452088.5684843,
     "trigger": 74.0,
-    "notified": false
+    "notified": true
   },
   "ROBO-USDT-SWAP": {
     "bias": "SHORT",
@@ -864,10 +864,10 @@
     "notified": false
   },
   "FOGO-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791186543.8581088,
-    "trigger": 80.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791478513.6305146,
+    "trigger": 21.9,
+    "notified": false
   },
   "PIPPIN-USDT-SWAP": {
     "bias": "LONG",
@@ -1101,7 +1101,7 @@
     "bias": "SHORT",
     "since": 1791217680.405012,
     "trigger": 29.6,
-    "notified": false
+    "notified": true
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -1134,10 +1134,10 @@
     "notified": true
   },
   "RESOLV-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790416047.0908782,
-    "trigger": 71.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791478517.68399,
+    "trigger": 26.7,
+    "notified": false
   },
   "CORE-USDT-SWAP": {
     "bias": "SHORT",
@@ -1332,10 +1332,10 @@
     "notified": true
   },
   "SAND-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790926004.4797618,
-    "trigger": 89.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791478508.766213,
+    "trigger": 29.5,
+    "notified": false
   },
   "ENJ-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -1362,6 +1362,12 @@
     "notified": false
   },
   "API3-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "AEVO-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
