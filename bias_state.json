@@ -369,7 +369,7 @@
     "bias": "SHORT",
     "since": 1791352686.1715353,
     "trigger": 27.5,
-    "notified": false
+    "notified": true
   },
   "SHIB-USDT-SWAP": {
     "bias": "SHORT",
@@ -435,7 +435,7 @@
     "bias": "SHORT",
     "since": 1791352692.6681426,
     "trigger": 23.4,
-    "notified": false
+    "notified": true
   },
   "HMSTR-USDT-SWAP": {
     "bias": "SHORT",
@@ -447,7 +447,7 @@
     "bias": "SHORT",
     "since": 1791376230.4558861,
     "trigger": 20.7,
-    "notified": false
+    "notified": true
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
@@ -645,7 +645,7 @@
     "bias": "SHORT",
     "since": 1791376236.910112,
     "trigger": 28.9,
-    "notified": false
+    "notified": true
   },
   "ROBO-USDT-SWAP": {
     "bias": "SHORT",
