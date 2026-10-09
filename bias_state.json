@@ -537,7 +537,7 @@
     "bias": "SHORT",
     "since": 1791478515.6532762,
     "trigger": 21.8,
-    "notified": false
+    "notified": true
   },
   "BICO-USDT-SWAP": {
     "bias": "SHORT",
@@ -585,7 +585,7 @@
     "bias": "SHORT",
     "since": 1791376236.543478,
     "trigger": 24.6,
-    "notified": false
+    "notified": true
   },
   "CHIP-USDT-SWAP": {
     "bias": "LONG",
@@ -867,7 +867,7 @@
     "bias": "SHORT",
     "since": 1791478513.6305146,
     "trigger": 21.9,
-    "notified": false
+    "notified": true
   },
   "PIPPIN-USDT-SWAP": {
     "bias": "LONG",
@@ -1335,7 +1335,7 @@
     "bias": "SHORT",
     "since": 1791478508.766213,
     "trigger": 29.5,
-    "notified": false
+    "notified": true
   },
   "ENJ-USDT-SWAP": {
     "bias": "NEUTRAL",
