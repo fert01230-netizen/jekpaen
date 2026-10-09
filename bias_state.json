@@ -1284,10 +1284,10 @@
     "notified": true
   },
   "XDP-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790814801.3784926,
-    "trigger": 26.2,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791556701.8617435,
+    "trigger": 84.6,
+    "notified": false
   },
   "CRV-USDT-SWAP": {
     "bias": "LONG",
