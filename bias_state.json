@@ -600,10 +600,10 @@
     "notified": false
   },
   "SENT-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1788900543.4582584,
-    "trigger": 70.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791575008.2750566,
+    "trigger": 25.5,
+    "notified": false
   },
   "OL-USDT-SWAP": {
     "bias": "LONG",
@@ -1005,7 +1005,7 @@
     "bias": "SHORT",
     "since": 1791302593.1161487,
     "trigger": 11.7,
-    "notified": false
+    "notified": true
   },
   "CHZ-USDT": {
     "bias": "NEUTRAL",
