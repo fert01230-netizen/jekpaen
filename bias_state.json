@@ -660,10 +660,10 @@
     "notified": true
   },
   "OP-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790660193.9945536,
-    "trigger": 29.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791588598.2793145,
+    "trigger": 71.5,
+    "notified": false
   },
   "SAHARA-USDT-SWAP": {
     "bias": "SHORT",
@@ -702,10 +702,10 @@
     "notified": true
   },
   "WLFI-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790588420.0070913,
-    "trigger": 29.1,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791588596.3021219,
+    "trigger": 74.5,
+    "notified": false
   },
   "ZAMA-USDT-SWAP": {
     "bias": "LONG",
