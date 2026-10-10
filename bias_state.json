@@ -507,7 +507,7 @@
     "bias": "LONG",
     "since": 1791622689.9521282,
     "trigger": 70.6,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
@@ -564,10 +564,10 @@
     "notified": true
   },
   "LINEA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790969726.8338273,
-    "trigger": 29.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1791671247.319225,
+    "trigger": 72.9,
+    "notified": false
   },
   "RSR-USDT-SWAP": {
     "bias": "SHORT",
@@ -1116,9 +1116,9 @@
     "notified": true
   },
   "BRETT-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1791671251.383211,
+    "trigger": 88.5,
     "notified": false
   },
   "EDEN-USDT-SWAP": {
