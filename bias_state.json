@@ -705,7 +705,7 @@
     "bias": "LONG",
     "since": 1791588596.3021219,
     "trigger": 74.5,
-    "notified": false
+    "notified": true
   },
   "ZAMA-USDT-SWAP": {
     "bias": "LONG",
@@ -1374,6 +1374,24 @@
     "notified": false
   },
   "YGG-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "CFX-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1791644290.4246297,
+    "trigger": 89.8,
+    "notified": false
+  },
+  "APR-USDT-SWAP": {
+    "bias": "SHORT",
+    "since": 1791644294.5432336,
+    "trigger": 20.0,
+    "notified": false
+  },
+  "WAL-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
