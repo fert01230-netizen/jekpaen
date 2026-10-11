@@ -393,7 +393,7 @@
     "bias": "LONG",
     "since": 1791680754.3781013,
     "trigger": 70.5,
-    "notified": false
+    "notified": true
   },
   "PUMP-USDT-SWAP": {
     "bias": "LONG",
@@ -1119,7 +1119,7 @@
     "bias": "LONG",
     "since": 1791671251.383211,
     "trigger": 88.5,
-    "notified": false
+    "notified": true
   },
   "EDEN-USDT-SWAP": {
     "bias": "LONG",
@@ -1392,6 +1392,12 @@
     "notified": false
   },
   "WAL-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "TIA-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
