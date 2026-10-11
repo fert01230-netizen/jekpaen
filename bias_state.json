@@ -537,7 +537,7 @@
     "bias": "LONG",
     "since": 1791743755.323722,
     "trigger": 71.9,
-    "notified": false
+    "notified": true
   },
   "BICO-USDT-SWAP": {
     "bias": "SHORT",
