@@ -390,16 +390,16 @@
     "notified": true
   },
   "IOST-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791680754.3781013,
-    "trigger": 70.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824345.402412,
+    "trigger": 29.6,
+    "notified": false
   },
   "PUMP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790333371.1604722,
-    "trigger": 71.1,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824341.7308164,
+    "trigger": 29.9,
+    "notified": false
   },
   "FLOKI-USDT-SWAP": {
     "bias": "SHORT",
@@ -456,16 +456,16 @@
     "notified": true
   },
   "NOT-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791599601.6696963,
-    "trigger": 71.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824345.76475,
+    "trigger": 27.8,
+    "notified": false
   },
   "GALA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791599600.2401116,
-    "trigger": 78.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824344.08583,
+    "trigger": 23.2,
+    "notified": false
   },
   "MEW-USDT-SWAP": {
     "bias": "SHORT",
@@ -504,10 +504,10 @@
     "notified": true
   },
   "WLD-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791622689.9521282,
-    "trigger": 70.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824348.5976715,
+    "trigger": 26.8,
+    "notified": false
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
@@ -573,13 +573,13 @@
     "bias": "LONG",
     "since": 1791790689.1461537,
     "trigger": 86.7,
-    "notified": false
+    "notified": true
   },
   "ADA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791599604.5124896,
-    "trigger": 75.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824349.3948324,
+    "trigger": 28.0,
+    "notified": false
   },
   "XRP-USDT-SWAP": {
     "bias": "SHORT",
@@ -678,10 +678,10 @@
     "notified": false
   },
   "ACT-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790916741.2504346,
-    "trigger": 73.1,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824350.4952054,
+    "trigger": 26.3,
+    "notified": false
   },
   "ZIL-USDT-SWAP": {
     "bias": "SHORT",
@@ -1284,10 +1284,10 @@
     "notified": true
   },
   "XDP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791556701.8617435,
-    "trigger": 84.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791824347.303665,
+    "trigger": 25.6,
+    "notified": false
   },
   "CRV-USDT-SWAP": {
     "bias": "LONG",
