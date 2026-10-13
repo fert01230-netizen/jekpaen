@@ -363,7 +363,7 @@
     "bias": "SHORT",
     "since": 1791847709.5523,
     "trigger": 26.5,
-    "notified": false
+    "notified": true
   },
   "PEPE-USDT-SWAP": {
     "bias": "SHORT",
@@ -393,7 +393,7 @@
     "bias": "SHORT",
     "since": 1791824345.402412,
     "trigger": 29.6,
-    "notified": false
+    "notified": true
   },
   "PUMP-USDT-SWAP": {
     "bias": "SHORT",
@@ -423,7 +423,7 @@
     "bias": "SHORT",
     "since": 1791790688.9246085,
     "trigger": 23.7,
-    "notified": false
+    "notified": true
   },
   "DOGE-USDT-SWAP": {
     "bias": "SHORT",
@@ -459,7 +459,7 @@
     "bias": "SHORT",
     "since": 1791824345.76475,
     "trigger": 27.8,
-    "notified": false
+    "notified": true
   },
   "GALA-USDT-SWAP": {
     "bias": "SHORT",
@@ -507,7 +507,7 @@
     "bias": "SHORT",
     "since": 1791824348.5976715,
     "trigger": 26.8,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
@@ -579,7 +579,7 @@
     "bias": "SHORT",
     "since": 1791824349.3948324,
     "trigger": 28.0,
-    "notified": false
+    "notified": true
   },
   "XRP-USDT-SWAP": {
     "bias": "SHORT",
@@ -726,10 +726,10 @@
     "notified": false
   },
   "W-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789662224.8274765,
-    "trigger": 76.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791915185.3305392,
+    "trigger": 26.8,
+    "notified": false
   },
   "MOVE-USDT-SWAP": {
     "bias": "LONG",
