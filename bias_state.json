@@ -531,7 +531,7 @@
     "bias": "SHORT",
     "since": 1791847720.231675,
     "trigger": 27.0,
-    "notified": false
+    "notified": true
   },
   "ENA-USDT-SWAP": {
     "bias": "SHORT",
@@ -990,10 +990,10 @@
     "notified": false
   },
   "MUBARAK-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790353462.1946177,
-    "trigger": 72.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791931361.6294851,
+    "trigger": 26.6,
+    "notified": false
   },
   "MINA-USDT": {
     "bias": "NEUTRAL",
@@ -1287,7 +1287,7 @@
     "bias": "SHORT",
     "since": 1791824347.303665,
     "trigger": 25.6,
-    "notified": false
+    "notified": true
   },
   "CRV-USDT-SWAP": {
     "bias": "LONG",
