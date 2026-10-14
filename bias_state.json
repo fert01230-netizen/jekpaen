@@ -384,10 +384,10 @@
     "notified": true
   },
   "SOPH-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790883400.767685,
-    "trigger": 71.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792010379.059396,
+    "trigger": 24.7,
+    "notified": false
   },
   "IOST-USDT-SWAP": {
     "bias": "SHORT",
@@ -708,10 +708,10 @@
     "notified": true
   },
   "ZAMA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791045724.3035886,
-    "trigger": 76.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792010382.5189602,
+    "trigger": 25.7,
+    "notified": false
   },
   "CNPY-USDT-SWAP": {
     "bias": "LONG",
