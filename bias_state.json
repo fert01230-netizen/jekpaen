@@ -696,10 +696,10 @@
     "notified": true
   },
   "CAP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789382121.7135735,
-    "trigger": 83.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1791979792.3095596,
+    "trigger": 24.6,
+    "notified": false
   },
   "WLFI-USDT-SWAP": {
     "bias": "LONG",
