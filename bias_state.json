@@ -588,10 +588,10 @@
     "notified": true
   },
   "CHIP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1789698251.9509716,
-    "trigger": 70.1,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792020337.6067588,
+    "trigger": 29.8,
+    "notified": false
   },
   "SUI-USDT-SWAP": {
     "bias": "SHORT",
