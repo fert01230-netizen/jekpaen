@@ -1389,7 +1389,7 @@
     "bias": "SHORT",
     "since": 1791644294.5432336,
     "trigger": 20.0,
-    "notified": false
+    "notified": true
   },
   "WAL-USDT-SWAP": {
     "bias": "LONG",
