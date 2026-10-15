@@ -465,7 +465,7 @@
     "bias": "SHORT",
     "since": 1791824344.08583,
     "trigger": 23.2,
-    "notified": false
+    "notified": true
   },
   "MEW-USDT-SWAP": {
     "bias": "SHORT",
@@ -663,7 +663,7 @@
     "bias": "SHORT",
     "since": 1792045495.410896,
     "trigger": 24.0,
-    "notified": false
+    "notified": true
   },
   "SAHARA-USDT-SWAP": {
     "bias": "SHORT",
@@ -708,10 +708,10 @@
     "notified": true
   },
   "ZAMA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792010382.5189602,
-    "trigger": 25.7,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792079360.3736165,
+    "trigger": 71.9,
+    "notified": false
   },
   "CNPY-USDT-SWAP": {
     "bias": "LONG",
@@ -879,7 +879,7 @@
     "bias": "SHORT",
     "since": 1792045498.7842376,
     "trigger": 27.5,
-    "notified": false
+    "notified": true
   },
   "NES-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -933,7 +933,7 @@
     "bias": "LONG",
     "since": 1792064744.806894,
     "trigger": 71.0,
-    "notified": false
+    "notified": true
   },
   "XORCL-USDT": {
     "bias": "NEUTRAL",
@@ -1101,7 +1101,7 @@
     "bias": "LONG",
     "since": 1792064747.3284614,
     "trigger": 74.7,
-    "notified": false
+    "notified": true
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
