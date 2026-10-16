@@ -1401,7 +1401,7 @@
     "bias": "LONG",
     "since": 1792160001.1370184,
     "trigger": 85.9,
-    "notified": false
+    "notified": true
   },
   "DOS-USDT-SWAP": {
     "bias": "NEUTRAL",
