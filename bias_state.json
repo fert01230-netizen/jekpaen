@@ -546,16 +546,16 @@
     "notified": true
   },
   "PEOPLE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790568127.2419238,
-    "trigger": 29.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792126814.5621796,
+    "trigger": 71.3,
+    "notified": false
   },
   "ANIME-USDT-SWAP": {
     "bias": "LONG",
     "since": 1792092595.8541381,
     "trigger": 84.0,
-    "notified": false
+    "notified": true
   },
   "HOME-USDT-SWAP": {
     "bias": "SHORT",
@@ -1329,7 +1329,7 @@
     "bias": "SHORT",
     "since": 1792064745.4659123,
     "trigger": 26.9,
-    "notified": false
+    "notified": true
   },
   "SAND-USDT-SWAP": {
     "bias": "SHORT",
