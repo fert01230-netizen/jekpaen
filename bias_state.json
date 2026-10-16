@@ -477,7 +477,7 @@
     "bias": "LONG",
     "since": 1792103669.0308654,
     "trigger": 70.2,
-    "notified": false
+    "notified": true
   },
   "USELESS-USDT-SWAP": {
     "bias": "LONG",
@@ -1236,9 +1236,9 @@
     "notified": true
   },
   "BASED-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1791941010.3011281,
-    "trigger": 19.2,
+    "bias": "LONG",
+    "since": 1792173715.2236533,
+    "trigger": 76.8,
     "notified": false
   },
   "MAGIC-USDT-SWAP": {
