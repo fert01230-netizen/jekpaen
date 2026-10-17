@@ -1392,10 +1392,10 @@
     "notified": true
   },
   "WAL-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791958618.5341833,
-    "trigger": 81.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792217321.7723198,
+    "trigger": 29.9,
+    "notified": false
   },
   "TIA-USDT-SWAP": {
     "bias": "LONG",
@@ -1404,6 +1404,12 @@
     "notified": true
   },
   "DOS-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "DNA-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
