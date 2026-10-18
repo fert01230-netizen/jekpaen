@@ -1182,10 +1182,10 @@
     "notified": true
   },
   "PYTH-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1790506065.688873,
-    "trigger": 70.3,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792300848.2114987,
+    "trigger": 29.8,
+    "notified": false
   },
   "ALLO-USDT-SWAP": {
     "bias": "LONG",
