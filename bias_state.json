@@ -930,10 +930,10 @@
     "notified": false
   },
   "BLUR-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1792064744.806894,
-    "trigger": 71.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792342338.3043678,
+    "trigger": 28.1,
+    "notified": false
   },
   "XORCL-USDT": {
     "bias": "NEUTRAL",
