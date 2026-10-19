@@ -555,7 +555,7 @@
     "bias": "SHORT",
     "since": 1792245273.5424192,
     "trigger": 25.3,
-    "notified": false
+    "notified": true
   },
   "HOME-USDT-SWAP": {
     "bias": "SHORT",
