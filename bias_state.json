@@ -1245,7 +1245,7 @@
     "bias": "SHORT",
     "since": 1792330475.1841831,
     "trigger": 28.7,
-    "notified": false
+    "notified": true
   },
   "GRASS-USDT-SWAP": {
     "bias": "LONG",
