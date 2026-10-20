@@ -441,7 +441,7 @@
     "bias": "LONG",
     "since": 1792515351.9245596,
     "trigger": 73.1,
-    "notified": false
+    "notified": true
   },
   "PENGU-USDT-SWAP": {
     "bias": "SHORT",
@@ -645,7 +645,7 @@
     "bias": "SHORT",
     "since": 1792285099.0982428,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "ROBO-USDT-SWAP": {
     "bias": "SHORT",
