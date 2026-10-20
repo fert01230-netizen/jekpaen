@@ -849,7 +849,7 @@
     "bias": "LONG",
     "since": 1792515357.9390805,
     "trigger": 76.7,
-    "notified": false
+    "notified": true
   },
   "SEI-USDT-SWAP": {
     "bias": "LONG",
@@ -1326,10 +1326,10 @@
     "notified": true
   },
   "TRUTH-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792064745.4659123,
-    "trigger": 26.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792537794.5214133,
+    "trigger": 71.4,
+    "notified": false
   },
   "SAND-USDT-SWAP": {
     "bias": "SHORT",
