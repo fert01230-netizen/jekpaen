@@ -360,10 +360,10 @@
     "notified": true
   },
   "SATS-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1791847709.5523,
-    "trigger": 26.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792603464.2283106,
+    "trigger": 75.2,
+    "notified": false
   },
   "PEPE-USDT-SWAP": {
     "bias": "LONG",
@@ -378,10 +378,10 @@
     "notified": true
   },
   "BONK-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1791254015.5192225,
-    "trigger": 29.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792603464.918844,
+    "trigger": 77.9,
+    "notified": false
   },
   "SOPH-USDT-SWAP": {
     "bias": "SHORT",
@@ -444,10 +444,10 @@
     "notified": true
   },
   "PENGU-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1791376230.4558861,
-    "trigger": 20.7,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792603466.809183,
+    "trigger": 70.4,
+    "notified": false
   },
   "MEME-USDT-SWAP": {
     "bias": "SHORT",
@@ -522,10 +522,10 @@
     "notified": true
   },
   "XPL-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792245277.9233534,
-    "trigger": 29.9,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792603475.5761988,
+    "trigger": 74.7,
+    "notified": false
   },
   "MON-USDT-SWAP": {
     "bias": "SHORT",
@@ -654,10 +654,10 @@
     "notified": true
   },
   "BILL-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790527767.3932354,
-    "trigger": 29.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792603471.4611056,
+    "trigger": 70.5,
+    "notified": false
   },
   "OP-USDT-SWAP": {
     "bias": "SHORT",
@@ -1140,10 +1140,10 @@
     "notified": false
   },
   "CORE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1791352697.5836384,
-    "trigger": 22.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792603474.191219,
+    "trigger": 77.4,
+    "notified": false
   },
   "HBAR-USDT-SWAP": {
     "bias": "SHORT",
@@ -1359,7 +1359,7 @@
     "bias": "LONG",
     "since": 1792564386.2259889,
     "trigger": 77.8,
-    "notified": false
+    "notified": true
   },
   "API3-USDT-SWAP": {
     "bias": "NEUTRAL",
