@@ -405,7 +405,7 @@
     "bias": "LONG",
     "since": 1792515349.8153112,
     "trigger": 72.0,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "SHORT",
@@ -501,13 +501,13 @@
     "bias": "LONG",
     "since": 1792546257.4522421,
     "trigger": 71.6,
-    "notified": false
+    "notified": true
   },
   "WLD-USDT-SWAP": {
     "bias": "LONG",
     "since": 1792450734.7151752,
     "trigger": 72.0,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
@@ -549,7 +549,7 @@
     "bias": "LONG",
     "since": 1792546253.7049422,
     "trigger": 71.2,
-    "notified": false
+    "notified": true
   },
   "ANIME-USDT-SWAP": {
     "bias": "LONG",
@@ -558,10 +558,10 @@
     "notified": false
   },
   "HOME-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790173425.2816415,
-    "trigger": 25.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792564383.5058615,
+    "trigger": 70.5,
+    "notified": false
   },
   "LINEA-USDT-SWAP": {
     "bias": "SHORT",
@@ -1329,7 +1329,7 @@
     "bias": "LONG",
     "since": 1792537794.5214133,
     "trigger": 71.4,
-    "notified": false
+    "notified": true
   },
   "SAND-USDT-SWAP": {
     "bias": "SHORT",
@@ -1356,9 +1356,9 @@
     "notified": false
   },
   "PARTI-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1792564386.2259889,
+    "trigger": 77.8,
     "notified": false
   },
   "API3-USDT-SWAP": {
