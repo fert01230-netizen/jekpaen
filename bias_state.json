@@ -369,7 +369,7 @@
     "bias": "LONG",
     "since": 1792515348.5585213,
     "trigger": 87.8,
-    "notified": false
+    "notified": true
   },
   "SHIB-USDT-SWAP": {
     "bias": "SHORT",
@@ -393,7 +393,7 @@
     "bias": "LONG",
     "since": 1792498051.6668859,
     "trigger": 72.2,
-    "notified": false
+    "notified": true
   },
   "PUMP-USDT-SWAP": {
     "bias": "SHORT",
@@ -498,10 +498,10 @@
     "notified": true
   },
   "RLS-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790702626.31388,
-    "trigger": 23.5,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792546257.4522421,
+    "trigger": 71.6,
+    "notified": false
   },
   "WLD-USDT-SWAP": {
     "bias": "LONG",
@@ -546,16 +546,16 @@
     "notified": true
   },
   "PEOPLE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792330473.657068,
-    "trigger": 28.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792546253.7049422,
+    "trigger": 71.2,
+    "notified": false
   },
   "ANIME-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792245273.5424192,
-    "trigger": 25.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792546255.9757462,
+    "trigger": 70.9,
+    "notified": false
   },
   "HOME-USDT-SWAP": {
     "bias": "SHORT",
@@ -867,7 +867,7 @@
     "bias": "LONG",
     "since": 1792515359.2072968,
     "trigger": 82.1,
-    "notified": false
+    "notified": true
   },
   "PIPPIN-USDT-SWAP": {
     "bias": "LONG",
