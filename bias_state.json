@@ -909,7 +909,7 @@
     "bias": "SHORT",
     "since": 1791958617.5791857,
     "trigger": 26.7,
-    "notified": false
+    "notified": true
   },
   "XAAPL-USDT": {
     "bias": "LONG",
@@ -1101,7 +1101,7 @@
     "bias": "SHORT",
     "since": 1792625873.5849483,
     "trigger": 26.6,
-    "notified": false
+    "notified": true
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
