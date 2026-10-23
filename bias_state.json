@@ -396,10 +396,10 @@
     "notified": false
   },
   "PUMP-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1792615407.5803673,
-    "trigger": 73.8,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792797299.7147431,
+    "trigger": 28.8,
+    "notified": false
   },
   "FLOKI-USDT-SWAP": {
     "bias": "SHORT",
@@ -474,10 +474,10 @@
     "notified": true
   },
   "ARB-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1792390986.3448005,
-    "trigger": 73.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792797309.2935028,
+    "trigger": 25.4,
+    "notified": false
   },
   "USELESS-USDT-SWAP": {
     "bias": "LONG",
