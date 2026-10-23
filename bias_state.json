@@ -363,7 +363,7 @@
     "bias": "SHORT",
     "since": 1792651320.6222444,
     "trigger": 26.3,
-    "notified": false
+    "notified": true
   },
   "PEPE-USDT-SWAP": {
     "bias": "LONG",
@@ -405,7 +405,7 @@
     "bias": "SHORT",
     "since": 1792651321.8933094,
     "trigger": 25.8,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "SHORT",
@@ -525,7 +525,7 @@
     "bias": "SHORT",
     "since": 1792689720.9145648,
     "trigger": 29.3,
-    "notified": false
+    "notified": true
   },
   "MON-USDT-SWAP": {
     "bias": "SHORT",
@@ -549,7 +549,7 @@
     "bias": "SHORT",
     "since": 1792712092.3308833,
     "trigger": 27.0,
-    "notified": false
+    "notified": true
   },
   "ANIME-USDT-SWAP": {
     "bias": "LONG",
@@ -585,7 +585,7 @@
     "bias": "SHORT",
     "since": 1792689721.981036,
     "trigger": 27.2,
-    "notified": false
+    "notified": true
   },
   "CHIP-USDT-SWAP": {
     "bias": "LONG",
@@ -687,7 +687,7 @@
     "bias": "SHORT",
     "since": 1792701474.7398338,
     "trigger": 28.2,
-    "notified": false
+    "notified": true
   },
   "MEGA-USDT-SWAP": {
     "bias": "LONG",
@@ -1098,10 +1098,10 @@
     "notified": true
   },
   "AKE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792625873.5849483,
-    "trigger": 26.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1792737443.540149,
+    "trigger": 72.4,
+    "notified": false
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -1197,7 +1197,7 @@
     "bias": "SHORT",
     "since": 1792689725.5019546,
     "trigger": 26.4,
-    "notified": false
+    "notified": true
   },
   "H-USDT-SWAP": {
     "bias": "LONG",
