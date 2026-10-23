@@ -387,13 +387,13 @@
     "bias": "LONG",
     "since": 1792757043.4854991,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "IOST-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1792498051.6668859,
-    "trigger": 72.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792774820.607445,
+    "trigger": 29.5,
+    "notified": false
   },
   "PUMP-USDT-SWAP": {
     "bias": "LONG",
@@ -414,10 +414,10 @@
     "notified": true
   },
   "DOOD-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1792498049.6492257,
-    "trigger": 73.6,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792774820.4279487,
+    "trigger": 26.1,
+    "notified": false
   },
   "BOME-USDT-SWAP": {
     "bias": "SHORT",
@@ -702,10 +702,10 @@
     "notified": true
   },
   "WLFI-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1791588596.3021219,
-    "trigger": 74.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1792774829.0682971,
+    "trigger": 29.0,
+    "notified": false
   },
   "ZAMA-USDT-SWAP": {
     "bias": "LONG",
