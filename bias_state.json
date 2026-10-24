@@ -399,7 +399,7 @@
     "bias": "SHORT",
     "since": 1792797299.7147431,
     "trigger": 28.8,
-    "notified": false
+    "notified": true
   },
   "FLOKI-USDT-SWAP": {
     "bias": "SHORT",
@@ -501,7 +501,7 @@
     "bias": "SHORT",
     "since": 1792840827.6977942,
     "trigger": 23.4,
-    "notified": false
+    "notified": true
   },
   "WLD-USDT-SWAP": {
     "bias": "SHORT",
@@ -927,7 +927,7 @@
     "bias": "LONG",
     "since": 1792840822.2497752,
     "trigger": 74.2,
-    "notified": false
+    "notified": true
   },
   "BLUR-USDT-SWAP": {
     "bias": "SHORT",
