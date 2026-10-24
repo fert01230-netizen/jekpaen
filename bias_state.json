@@ -669,7 +669,7 @@
     "bias": "LONG",
     "since": 1792840828.0682425,
     "trigger": 72.7,
-    "notified": false
+    "notified": true
   },
   "CHZ-USDT-SWAP": {
     "bias": "SHORT",
@@ -1440,6 +1440,12 @@
     "notified": false
   },
   "BLEND-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "WOO-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
