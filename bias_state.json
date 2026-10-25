@@ -477,7 +477,7 @@
     "bias": "SHORT",
     "since": 1792797309.2935028,
     "trigger": 25.4,
-    "notified": false
+    "notified": true
   },
   "USELESS-USDT-SWAP": {
     "bias": "LONG",
@@ -1389,7 +1389,7 @@
     "bias": "LONG",
     "since": 1792879264.7359586,
     "trigger": 86.9,
-    "notified": false
+    "notified": true
   },
   "WAL-USDT-SWAP": {
     "bias": "SHORT",
