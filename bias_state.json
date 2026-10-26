@@ -723,7 +723,7 @@
     "bias": "SHORT",
     "since": 1790566680.4969895,
     "trigger": 27.3,
-    "notified": false
+    "notified": true
   },
   "W-USDT-SWAP": {
     "bias": "SHORT",
