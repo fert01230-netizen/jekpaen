@@ -543,7 +543,7 @@
     "bias": "LONG",
     "since": 1793236770.7661538,
     "trigger": 71.4,
-    "notified": false
+    "notified": true
   },
   "PEOPLE-USDT-SWAP": {
     "bias": "SHORT",
@@ -609,7 +609,7 @@
     "bias": "LONG",
     "since": 1793208074.0310085,
     "trigger": 79.4,
-    "notified": false
+    "notified": true
   },
   "KAT-USDT-SWAP": {
     "bias": "LONG",
@@ -1404,9 +1404,9 @@
     "notified": true
   },
   "DOS-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1793208081.7850685,
-    "trigger": 85.5,
+    "bias": "SHORT",
+    "since": 1793258181.5821285,
+    "trigger": 29.7,
     "notified": false
   },
   "DNA-USDT-SWAP": {
