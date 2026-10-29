@@ -906,10 +906,10 @@
     "notified": false
   },
   "HUMA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1791958617.5791857,
-    "trigger": 26.7,
-    "notified": true
+    "bias": "LONG",
+    "since": 1793284217.364953,
+    "trigger": 74.9,
+    "notified": false
   },
   "XAAPL-USDT": {
     "bias": "LONG",
