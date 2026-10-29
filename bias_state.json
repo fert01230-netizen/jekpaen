@@ -399,7 +399,7 @@
     "bias": "LONG",
     "since": 1793223919.95262,
     "trigger": 73.3,
-    "notified": false
+    "notified": true
   },
   "FLOKI-USDT-SWAP": {
     "bias": "LONG",
@@ -540,10 +540,10 @@
     "notified": true
   },
   "BICO-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790175064.3086553,
-    "trigger": 29.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1793236770.7661538,
+    "trigger": 71.4,
+    "notified": false
   },
   "PEOPLE-USDT-SWAP": {
     "bias": "SHORT",
