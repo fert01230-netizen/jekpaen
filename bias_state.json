@@ -699,7 +699,7 @@
     "bias": "SHORT",
     "since": 1793208074.2853713,
     "trigger": 23.9,
-    "notified": false
+    "notified": true
   },
   "WLFI-USDT-SWAP": {
     "bias": "SHORT",
@@ -909,7 +909,7 @@
     "bias": "LONG",
     "since": 1793284217.364953,
     "trigger": 74.9,
-    "notified": false
+    "notified": true
   },
   "XAAPL-USDT": {
     "bias": "LONG",
