@@ -375,13 +375,13 @@
     "bias": "SHORT",
     "since": 1793317187.911076,
     "trigger": 28.0,
-    "notified": false
+    "notified": true
   },
   "BONK-USDT-SWAP": {
     "bias": "SHORT",
     "since": 1793317188.198108,
     "trigger": 28.0,
-    "notified": false
+    "notified": true
   },
   "SOPH-USDT-SWAP": {
     "bias": "LONG",
@@ -459,7 +459,7 @@
     "bias": "SHORT",
     "since": 1793317192.4420757,
     "trigger": 23.8,
-    "notified": false
+    "notified": true
   },
   "GALA-USDT-SWAP": {
     "bias": "SHORT",
@@ -681,7 +681,7 @@
     "bias": "SHORT",
     "since": 1791824350.4952054,
     "trigger": 26.3,
-    "notified": false
+    "notified": true
   },
   "ZIL-USDT-SWAP": {
     "bias": "SHORT",
