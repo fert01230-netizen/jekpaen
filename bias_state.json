@@ -606,10 +606,10 @@
     "notified": true
   },
   "OL-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1793208074.0310085,
-    "trigger": 79.4,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1793391168.37133,
+    "trigger": 29.2,
+    "notified": false
   },
   "KAT-USDT-SWAP": {
     "bias": "LONG",
