@@ -609,7 +609,7 @@
     "bias": "SHORT",
     "since": 1793391168.37133,
     "trigger": 29.2,
-    "notified": false
+    "notified": true
   },
   "KAT-USDT-SWAP": {
     "bias": "LONG",
@@ -1437,7 +1437,7 @@
     "bias": "LONG",
     "since": 1793414637.0129187,
     "trigger": 81.4,
-    "notified": false
+    "notified": true
   },
   "BLEND-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -1476,9 +1476,9 @@
     "notified": false
   },
   "TRX-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1793458313.7550766,
+    "trigger": 28.3,
     "notified": false
   }
 }
