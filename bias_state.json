@@ -1480,5 +1480,11 @@
     "since": 1793458313.7550766,
     "trigger": 28.3,
     "notified": false
+  },
+  "STX-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1793472794.0384786,
+    "trigger": 74.0,
+    "notified": false
   }
 }
