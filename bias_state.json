@@ -525,7 +525,7 @@
     "bias": "SHORT",
     "since": 1793643696.3500633,
     "trigger": 29.1,
-    "notified": false
+    "notified": true
   },
   "MON-USDT-SWAP": {
     "bias": "SHORT",
@@ -909,7 +909,7 @@
     "bias": "SHORT",
     "since": 1793607298.7901702,
     "trigger": 29.4,
-    "notified": false
+    "notified": true
   },
   "XAAPL-USDT": {
     "bias": "LONG",
@@ -1431,7 +1431,7 @@
     "bias": "SHORT",
     "since": 1793223930.197689,
     "trigger": 25.3,
-    "notified": false
+    "notified": true
   },
   "WET-USDT-SWAP": {
     "bias": "LONG",
