@@ -555,7 +555,7 @@
     "bias": "SHORT",
     "since": 1793558295.005311,
     "trigger": 28.9,
-    "notified": false
+    "notified": true
   },
   "HOME-USDT-SWAP": {
     "bias": "SHORT",
@@ -1326,10 +1326,10 @@
     "notified": true
   },
   "TRUTH-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1792537794.5214133,
-    "trigger": 71.4,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1793692331.0539331,
+    "trigger": 15.6,
+    "notified": false
   },
   "SAND-USDT-SWAP": {
     "bias": "SHORT",
@@ -1386,10 +1386,10 @@
     "notified": true
   },
   "APR-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1792879264.7359586,
-    "trigger": 86.9,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1793692321.9255064,
+    "trigger": 27.5,
+    "notified": false
   },
   "WAL-USDT-SWAP": {
     "bias": "SHORT",
