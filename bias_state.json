@@ -381,7 +381,7 @@
     "bias": "LONG",
     "since": 1793777831.8290856,
     "trigger": 75.7,
-    "notified": false
+    "notified": true
   },
   "SOPH-USDT-SWAP": {
     "bias": "SHORT",
@@ -411,7 +411,7 @@
     "bias": "LONG",
     "since": 1793807059.7733762,
     "trigger": 71.1,
-    "notified": false
+    "notified": true
   },
   "DOOD-USDT-SWAP": {
     "bias": "LONG",
@@ -423,13 +423,13 @@
     "bias": "LONG",
     "since": 1793807060.0017667,
     "trigger": 71.2,
-    "notified": false
+    "notified": true
   },
   "DOGE-USDT-SWAP": {
     "bias": "LONG",
     "since": 1793807060.7462018,
     "trigger": 70.1,
-    "notified": false
+    "notified": true
   },
   "CP-USDT-SWAP": {
     "bias": "SHORT",
@@ -477,7 +477,7 @@
     "bias": "LONG",
     "since": 1793807071.2404063,
     "trigger": 70.8,
-    "notified": false
+    "notified": true
   },
   "USELESS-USDT-SWAP": {
     "bias": "LONG",
@@ -495,7 +495,7 @@
     "bias": "LONG",
     "since": 1793807064.1297312,
     "trigger": 70.8,
-    "notified": false
+    "notified": true
   },
   "RLS-USDT-SWAP": {
     "bias": "SHORT",
@@ -549,7 +549,7 @@
     "bias": "LONG",
     "since": 1793807063.645216,
     "trigger": 72.8,
-    "notified": false
+    "notified": true
   },
   "ANIME-USDT-SWAP": {
     "bias": "SHORT",
@@ -567,7 +567,7 @@
     "bias": "LONG",
     "since": 1793807069.780189,
     "trigger": 70.4,
-    "notified": false
+    "notified": true
   },
   "RSR-USDT-SWAP": {
     "bias": "SHORT",
@@ -579,13 +579,13 @@
     "bias": "LONG",
     "since": 1793807069.0918021,
     "trigger": 70.7,
-    "notified": false
+    "notified": true
   },
   "XRP-USDT-SWAP": {
     "bias": "LONG",
     "since": 1793807068.6322346,
     "trigger": 71.3,
-    "notified": false
+    "notified": true
   },
   "CHIP-USDT-SWAP": {
     "bias": "SHORT",
@@ -687,7 +687,7 @@
     "bias": "LONG",
     "since": 1793807066.4976642,
     "trigger": 71.4,
-    "notified": false
+    "notified": true
   },
   "MEGA-USDT-SWAP": {
     "bias": "LONG",
@@ -1143,7 +1143,7 @@
     "bias": "LONG",
     "since": 1793807070.2721167,
     "trigger": 72.6,
-    "notified": false
+    "notified": true
   },
   "HBAR-USDT-SWAP": {
     "bias": "SHORT",
@@ -1494,9 +1494,9 @@
     "notified": false
   },
   "TRUMP-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1793827791.8280778,
+    "trigger": 21.9,
     "notified": false
   }
 }
