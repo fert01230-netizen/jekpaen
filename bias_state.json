@@ -405,7 +405,7 @@
     "bias": "SHORT",
     "since": 1793896698.4797754,
     "trigger": 22.4,
-    "notified": false
+    "notified": true
   },
   "NEIRO-USDT-SWAP": {
     "bias": "LONG",
@@ -687,7 +687,7 @@
     "bias": "SHORT",
     "since": 1793896703.8351874,
     "trigger": 29.1,
-    "notified": false
+    "notified": true
   },
   "MEGA-USDT-SWAP": {
     "bias": "LONG",
@@ -1098,10 +1098,10 @@
     "notified": true
   },
   "AKE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1793134612.4006789,
-    "trigger": 25.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1793958609.6052334,
+    "trigger": 75.9,
+    "notified": false
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
