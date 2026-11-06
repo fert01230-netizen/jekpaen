@@ -687,7 +687,7 @@
     "bias": "LONG",
     "since": 1793984306.3573594,
     "trigger": 73.1,
-    "notified": false
+    "notified": true
   },
   "MEGA-USDT-SWAP": {
     "bias": "LONG",
@@ -729,7 +729,7 @@
     "bias": "LONG",
     "since": 1793984308.8343186,
     "trigger": 78.0,
-    "notified": false
+    "notified": true
   },
   "MOVE-USDT-SWAP": {
     "bias": "LONG",
@@ -831,7 +831,7 @@
     "bias": "LONG",
     "since": 1793984307.8445623,
     "trigger": 72.7,
-    "notified": false
+    "notified": true
   },
   "BIGTIME-USDT-SWAP": {
     "bias": "LONG",
