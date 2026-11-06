@@ -1497,6 +1497,6 @@
     "bias": "SHORT",
     "since": 1793827791.8280778,
     "trigger": 21.9,
-    "notified": false
+    "notified": true
   }
 }
