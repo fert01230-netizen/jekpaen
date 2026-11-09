@@ -417,7 +417,7 @@
     "bias": "SHORT",
     "since": 1794148707.412868,
     "trigger": 29.1,
-    "notified": false
+    "notified": true
   },
   "BOME-USDT-SWAP": {
     "bias": "LONG",
@@ -567,7 +567,7 @@
     "bias": "SHORT",
     "since": 1794148713.588677,
     "trigger": 27.5,
-    "notified": false
+    "notified": true
   },
   "RSR-USDT-SWAP": {
     "bias": "LONG",
@@ -639,7 +639,7 @@
     "bias": "SHORT",
     "since": 1794178192.8556082,
     "trigger": 22.6,
-    "notified": false
+    "notified": true
   },
   "STRK-USDT-SWAP": {
     "bias": "SHORT",
@@ -657,7 +657,7 @@
     "bias": "SHORT",
     "since": 1794124597.8282568,
     "trigger": 26.0,
-    "notified": false
+    "notified": true
   },
   "OP-USDT-SWAP": {
     "bias": "LONG",
@@ -675,7 +675,7 @@
     "bias": "SHORT",
     "since": 1791352699.8877726,
     "trigger": 25.5,
-    "notified": false
+    "notified": true
   },
   "ACT-USDT-SWAP": {
     "bias": "SHORT",
@@ -702,10 +702,10 @@
     "notified": true
   },
   "WLFI-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792774829.0682971,
-    "trigger": 29.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1794254619.0696704,
+    "trigger": 71.8,
+    "notified": false
   },
   "ZAMA-USDT-SWAP": {
     "bias": "LONG",
@@ -807,7 +807,7 @@
     "bias": "SHORT",
     "since": 1794148716.7754092,
     "trigger": 25.3,
-    "notified": false
+    "notified": true
   },
   "KAT-USDT": {
     "bias": "LONG",
@@ -1035,7 +1035,7 @@
     "bias": "SHORT",
     "since": 1793317202.5896125,
     "trigger": 27.9,
-    "notified": false
+    "notified": true
   },
   "GLM-USDT-SWAP": {
     "bias": "LONG",
