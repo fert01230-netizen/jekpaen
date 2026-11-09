@@ -381,7 +381,7 @@
     "bias": "SHORT",
     "since": 1794178184.2193172,
     "trigger": 29.7,
-    "notified": false
+    "notified": true
   },
   "SOPH-USDT-SWAP": {
     "bias": "SHORT",
