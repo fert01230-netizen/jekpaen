@@ -1299,7 +1299,7 @@
     "bias": "LONG",
     "since": 1794417975.5192976,
     "trigger": 84.2,
-    "notified": false
+    "notified": true
   },
   "CELO-USDT-SWAP": {
     "bias": "LONG",
