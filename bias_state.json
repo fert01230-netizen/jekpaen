@@ -408,10 +408,10 @@
     "notified": true
   },
   "NEIRO-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1793807059.7733762,
-    "trigger": 71.1,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1794486977.21854,
+    "trigger": 29.2,
+    "notified": false
   },
   "DOOD-USDT-SWAP": {
     "bias": "SHORT",
@@ -420,10 +420,10 @@
     "notified": true
   },
   "BOME-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1793807060.0017667,
-    "trigger": 71.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1794486977.571416,
+    "trigger": 21.8,
+    "notified": false
   },
   "DOGE-USDT-SWAP": {
     "bias": "SHORT",
