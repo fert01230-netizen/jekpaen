@@ -726,10 +726,10 @@
     "notified": true
   },
   "W-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1793984308.8343186,
-    "trigger": 78.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1794456651.5321262,
+    "trigger": 29.8,
+    "notified": false
   },
   "MOVE-USDT-SWAP": {
     "bias": "LONG",
@@ -1506,6 +1506,12 @@
     "notified": false
   },
   "STABLE-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "KGEN-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
