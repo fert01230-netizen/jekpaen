@@ -387,7 +387,7 @@
     "bias": "LONG",
     "since": 1794556490.6455178,
     "trigger": 87.1,
-    "notified": false
+    "notified": true
   },
   "IOST-USDT-SWAP": {
     "bias": "SHORT",
@@ -687,7 +687,7 @@
     "bias": "SHORT",
     "since": 1794515095.7595592,
     "trigger": 27.5,
-    "notified": false
+    "notified": true
   },
   "MEGA-USDT-SWAP": {
     "bias": "LONG",
@@ -1522,5 +1522,11 @@
     "since": 1794515096.6903024,
     "trigger": 79.2,
     "notified": true
+  },
+  "SHELL-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1794605895.0459018,
+    "trigger": 96.5,
+    "notified": false
   }
 }
