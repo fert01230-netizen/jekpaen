@@ -423,7 +423,7 @@
     "bias": "SHORT",
     "since": 1794486977.571416,
     "trigger": 21.8,
-    "notified": false
+    "notified": true
   },
   "DOGE-USDT-SWAP": {
     "bias": "SHORT",
