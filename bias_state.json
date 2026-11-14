@@ -1527,6 +1527,12 @@
     "bias": "LONG",
     "since": 1794605895.0459018,
     "trigger": 96.5,
+    "notified": true
+  },
+  "BERA-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
     "notified": false
   }
 }
