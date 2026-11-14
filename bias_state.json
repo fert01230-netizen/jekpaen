@@ -570,10 +570,10 @@
     "notified": true
   },
   "RSR-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1794124592.2869985,
-    "trigger": 73.5,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1794698611.9625165,
+    "trigger": 29.1,
+    "notified": false
   },
   "ADA-USDT-SWAP": {
     "bias": "SHORT",
