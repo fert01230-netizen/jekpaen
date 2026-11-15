@@ -513,7 +513,7 @@
     "bias": "SHORT",
     "since": 1794668383.2986908,
     "trigger": 20.9,
-    "notified": false
+    "notified": true
   },
   "ZORA-USDT-SWAP": {
     "bias": "LONG",
@@ -573,7 +573,7 @@
     "bias": "SHORT",
     "since": 1794698611.9625165,
     "trigger": 29.1,
-    "notified": false
+    "notified": true
   },
   "ADA-USDT-SWAP": {
     "bias": "SHORT",
@@ -1470,9 +1470,9 @@
     "notified": false
   },
   "INIT-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1794668384.7396927,
-    "trigger": 27.6,
+    "bias": "LONG",
+    "since": 1794736784.5479937,
+    "trigger": 73.4,
     "notified": false
   },
   "TRX-USDT-SWAP": {
