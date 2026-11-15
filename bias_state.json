@@ -1473,7 +1473,7 @@
     "bias": "LONG",
     "since": 1794736784.5479937,
     "trigger": 73.4,
-    "notified": false
+    "notified": true
   },
   "TRX-USDT-SWAP": {
     "bias": "SHORT",
