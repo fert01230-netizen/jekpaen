@@ -1137,7 +1137,7 @@
     "bias": "SHORT",
     "since": 1791478517.68399,
     "trigger": 26.7,
-    "notified": false
+    "notified": true
   },
   "CORE-USDT-SWAP": {
     "bias": "SHORT",
@@ -1533,6 +1533,12 @@
     "bias": "SHORT",
     "since": 1794685348.8405468,
     "trigger": 28.0,
+    "notified": false
+  },
+  "ASTER-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
     "notified": false
   }
 }
