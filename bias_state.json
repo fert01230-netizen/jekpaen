@@ -411,7 +411,7 @@
     "bias": "SHORT",
     "since": 1794486977.21854,
     "trigger": 29.2,
-    "notified": false
+    "notified": true
   },
   "DOOD-USDT-SWAP": {
     "bias": "SHORT",
@@ -639,7 +639,7 @@
     "bias": "SHORT",
     "since": 1794685352.440435,
     "trigger": 27.3,
-    "notified": false
+    "notified": true
   },
   "STRK-USDT-SWAP": {
     "bias": "SHORT",
@@ -1296,10 +1296,10 @@
     "notified": true
   },
   "NIGHT-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1794417975.5192976,
-    "trigger": 84.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1794815759.27565,
+    "trigger": 27.0,
+    "notified": false
   },
   "CELO-USDT-SWAP": {
     "bias": "LONG",
