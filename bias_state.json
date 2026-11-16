@@ -846,10 +846,10 @@
     "notified": true
   },
   "SPACE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1794178194.5266821,
-    "trigger": 28.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1794850631.8749607,
+    "trigger": 76.2,
+    "notified": false
   },
   "SEI-USDT-SWAP": {
     "bias": "LONG",
@@ -906,10 +906,10 @@
     "notified": false
   },
   "HUMA-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1793607298.7901702,
-    "trigger": 29.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1794850633.6145334,
+    "trigger": 75.0,
+    "notified": false
   },
   "XAAPL-USDT": {
     "bias": "LONG",
