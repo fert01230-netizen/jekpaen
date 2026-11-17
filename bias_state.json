@@ -849,7 +849,7 @@
     "bias": "LONG",
     "since": 1794850631.8749607,
     "trigger": 76.2,
-    "notified": false
+    "notified": true
   },
   "SEI-USDT-SWAP": {
     "bias": "LONG",
@@ -1299,7 +1299,7 @@
     "bias": "SHORT",
     "since": 1794815759.27565,
     "trigger": 27.0,
-    "notified": false
+    "notified": true
   },
   "CELO-USDT-SWAP": {
     "bias": "LONG",
