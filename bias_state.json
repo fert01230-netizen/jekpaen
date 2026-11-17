@@ -909,7 +909,7 @@
     "bias": "LONG",
     "since": 1794850633.6145334,
     "trigger": 75.0,
-    "notified": false
+    "notified": true
   },
   "XAAPL-USDT": {
     "bias": "LONG",
@@ -1428,10 +1428,10 @@
     "notified": false
   },
   "AXIS-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1793223930.197689,
-    "trigger": 25.3,
-    "notified": true
+    "bias": "LONG",
+    "since": 1794906570.5859804,
+    "trigger": 80.2,
+    "notified": false
   },
   "WET-USDT-SWAP": {
     "bias": "LONG",
@@ -1536,6 +1536,12 @@
     "notified": false
   },
   "ASTER-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "JCT-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
