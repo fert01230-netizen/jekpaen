@@ -1464,9 +1464,9 @@
     "notified": false
   },
   "BREV-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1794940185.1605716,
+    "trigger": 94.5,
     "notified": false
   },
   "INIT-USDT-SWAP": {
@@ -1545,6 +1545,12 @@
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
+    "notified": false
+  },
+  "MMT-USDT-SWAP": {
+    "bias": "LONG",
+    "since": 1794940188.1467943,
+    "trigger": 75.0,
     "notified": false
   }
 }
