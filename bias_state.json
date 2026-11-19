@@ -366,10 +366,10 @@
     "notified": true
   },
   "PEPE-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1793643690.4304914,
-    "trigger": 25.1,
-    "notified": true
+    "bias": "LONG",
+    "since": 1795095346.0617619,
+    "trigger": 70.6,
+    "notified": false
   },
   "SHIB-USDT-SWAP": {
     "bias": "SHORT",
