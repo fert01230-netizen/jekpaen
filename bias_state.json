@@ -933,7 +933,7 @@
     "bias": "LONG",
     "since": 1795200127.0872548,
     "trigger": 77.5,
-    "notified": false
+    "notified": true
   },
   "XORCL-USDT": {
     "bias": "NEUTRAL",
