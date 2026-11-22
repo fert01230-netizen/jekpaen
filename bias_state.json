@@ -504,10 +504,10 @@
     "notified": true
   },
   "WLD-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1792651327.908519,
-    "trigger": 29.4,
-    "notified": true
+    "bias": "LONG",
+    "since": 1795382078.595566,
+    "trigger": 70.9,
+    "notified": false
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
