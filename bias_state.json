@@ -1098,10 +1098,10 @@
     "notified": true
   },
   "AKE-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1794556488.9932766,
-    "trigger": 84.2,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1795332818.4910805,
+    "trigger": 21.2,
+    "notified": false
   },
   "MOODENG-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -1458,9 +1458,9 @@
     "notified": false
   },
   "AI-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1795332823.0397325,
+    "trigger": 85.9,
     "notified": false
   },
   "BREV-USDT-SWAP": {
