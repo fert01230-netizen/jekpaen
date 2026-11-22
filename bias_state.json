@@ -396,10 +396,10 @@
     "notified": true
   },
   "PUMP-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1794060763.139883,
-    "trigger": 28.6,
-    "notified": true
+    "bias": "LONG",
+    "since": 1795361970.2454803,
+    "trigger": 71.6,
+    "notified": false
   },
   "FLOKI-USDT-SWAP": {
     "bias": "SHORT",
@@ -1296,10 +1296,10 @@
     "notified": true
   },
   "NIGHT-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1794815759.27565,
-    "trigger": 27.0,
-    "notified": true
+    "bias": "LONG",
+    "since": 1795361977.0082226,
+    "trigger": 78.6,
+    "notified": false
   },
   "CELO-USDT-SWAP": {
     "bias": "LONG",
@@ -1461,7 +1461,7 @@
     "bias": "LONG",
     "since": 1795332823.0397325,
     "trigger": 85.9,
-    "notified": false
+    "notified": true
   },
   "BREV-USDT-SWAP": {
     "bias": "LONG",
@@ -1533,7 +1533,7 @@
     "bias": "SHORT",
     "since": 1794685348.8405468,
     "trigger": 28.0,
-    "notified": false
+    "notified": true
   },
   "ASTER-USDT-SWAP": {
     "bias": "NEUTRAL",
@@ -1566,6 +1566,12 @@
     "notified": false
   },
   "RAVE-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "PIEVERSE-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
