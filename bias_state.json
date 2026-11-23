@@ -399,7 +399,7 @@
     "bias": "LONG",
     "since": 1795361970.2454803,
     "trigger": 71.6,
-    "notified": false
+    "notified": true
   },
   "FLOKI-USDT-SWAP": {
     "bias": "SHORT",
@@ -507,7 +507,7 @@
     "bias": "LONG",
     "since": 1795382078.595566,
     "trigger": 70.9,
-    "notified": false
+    "notified": true
   },
   "TRIA-USDT-SWAP": {
     "bias": "SHORT",
@@ -882,9 +882,9 @@
     "notified": true
   },
   "NES-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "SHORT",
+    "since": 1795398106.5969772,
+    "trigger": 23.4,
     "notified": false
   },
   "NES-USDT": {
@@ -1299,7 +1299,7 @@
     "bias": "LONG",
     "since": 1795361977.0082226,
     "trigger": 78.6,
-    "notified": false
+    "notified": true
   },
   "CELO-USDT-SWAP": {
     "bias": "LONG",
