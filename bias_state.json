@@ -906,10 +906,10 @@
     "notified": false
   },
   "HUMA-USDT-SWAP": {
-    "bias": "LONG",
-    "since": 1794850633.6145334,
-    "trigger": 75.0,
-    "notified": true
+    "bias": "SHORT",
+    "since": 1795598304.5871837,
+    "trigger": 28.2,
+    "notified": false
   },
   "XAAPL-USDT": {
     "bias": "LONG",
@@ -1104,9 +1104,9 @@
     "notified": false
   },
   "MOODENG-USDT-SWAP": {
-    "bias": "NEUTRAL",
-    "since": 0,
-    "trigger": null,
+    "bias": "LONG",
+    "since": 1795598307.1816573,
+    "trigger": 76.7,
     "notified": false
   },
   "CASHCAT-USDT-SWAP": {
@@ -1572,6 +1572,12 @@
     "notified": false
   },
   "PIEVERSE-USDT-SWAP": {
+    "bias": "NEUTRAL",
+    "since": 0,
+    "trigger": null,
+    "notified": false
+  },
+  "OPG-USDT-SWAP": {
     "bias": "NEUTRAL",
     "since": 0,
     "trigger": null,
