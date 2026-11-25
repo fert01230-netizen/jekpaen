@@ -1275,7 +1275,7 @@
     "bias": "SHORT",
     "since": 1795537299.6044111,
     "trigger": 27.6,
-    "notified": false
+    "notified": true
   },
   "ALGO-USDT-SWAP": {
     "bias": "LONG",
