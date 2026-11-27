@@ -444,10 +444,10 @@
     "notified": true
   },
   "PENGU-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1793643694.806145,
-    "trigger": 26.2,
-    "notified": true
+    "bias": "LONG",
+    "since": 1795778984.1407592,
+    "trigger": 72.6,
+    "notified": false
   },
   "MEME-USDT-SWAP": {
     "bias": "LONG",
@@ -495,7 +495,7 @@
     "bias": "LONG",
     "since": 1795747689.2515452,
     "trigger": 70.3,
-    "notified": false
+    "notified": true
   },
   "RLS-USDT-SWAP": {
     "bias": "SHORT",
@@ -549,7 +549,7 @@
     "bias": "LONG",
     "since": 1795747698.2525823,
     "trigger": 72.1,
-    "notified": false
+    "notified": true
   },
   "ANIME-USDT-SWAP": {
     "bias": "SHORT",
@@ -630,10 +630,10 @@
     "notified": true
   },
   "PONS-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1791055441.8724768,
-    "trigger": 24.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1795778987.846351,
+    "trigger": 72.1,
+    "notified": false
   },
   "ATH-USDT-SWAP": {
     "bias": "SHORT",
@@ -729,7 +729,7 @@
     "bias": "LONG",
     "since": 1795659564.0853457,
     "trigger": 74.3,
-    "notified": false
+    "notified": true
   },
   "MOVE-USDT-SWAP": {
     "bias": "LONG",
