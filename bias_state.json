@@ -648,10 +648,10 @@
     "notified": true
   },
   "ROBO-USDT-SWAP": {
-    "bias": "SHORT",
-    "since": 1790522507.995146,
-    "trigger": 27.8,
-    "notified": true
+    "bias": "LONG",
+    "since": 1795833503.6889493,
+    "trigger": 82.0,
+    "notified": false
   },
   "BILL-USDT-SWAP": {
     "bias": "SHORT",
